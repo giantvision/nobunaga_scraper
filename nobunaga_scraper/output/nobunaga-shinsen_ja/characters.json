@@ -1,0 +1,4159 @@
+{
+  "source": "https://game8.jp/nobunaga-shinsen/737773",
+  "intro": "信長の野望 真戦における、全武将を一覧で掲載している記事です。絞り込み機能もあるため、ぜひ参考にしてください。",
+  "filters": {
+    "rarity": [
+      "★★★",
+      "★★★★",
+      "★★★★★"
+    ],
+    "cost": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "clan": [
+      "国衆",
+      "大友",
+      "河野",
+      "長宗我部",
+      "三好",
+      "尼子",
+      "大内",
+      "毛利",
+      "伊達",
+      "南部",
+      "鈴木",
+      "浅井",
+      "朝倉",
+      "本願寺",
+      "斎藤",
+      "今川",
+      "北条",
+      "上杉",
+      "武田",
+      "徳川",
+      "豊臣",
+      "織田",
+      "島津",
+      "安東",
+      "里見",
+      "相馬"
+    ],
+    "gender": [
+      "男",
+      "女"
+    ]
+  },
+  "characters": [
+    {
+      "name": "山県昌景",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763195",
+      "image_url": "https://img.game8.jp/12357847/dd2d4cce18d89cbb3905aa374a8a03c0.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "武田之赤備",
+      "transferable_tactic": "縦横馳突",
+      "council_skill": "別働奇襲",
+      "description": "【コスト】7　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 武田之赤備 【伝授戦法】 縦横馳突 【評定衆技能】 別働奇襲",
+      "unique_tactic_detail": {
+        "name": "武田之赤備",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "受動 戦闘中、10%→20%の会心を獲得。毎ターン行動後、12.5%→25%の確率（武勇依存。このターンで会心ダメージを与えた場合、追加で12.5%→25%増加）で赤備え突撃を発動：敵軍単体に兵刃ダメージ（ダメージ率69%→138%）を与え、2ターンの間、次のターンの通常攻撃後に対象の統率が7.5%→15%低下 大将技 ：赤備え突撃の発動確率が追加で10%増加",
+        "source": "固有戦法： 山県昌景"
+      },
+      "transferable_tactic_detail": {
+        "name": "縦横馳突",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自身",
+        "activation": "20%→40%",
+        "detail": "能動 自身に連撃（1ターンに2回通常攻撃が可能）を付与し、さらに封撃（通常攻撃不可）耐性を獲得する。1ターン持続",
+        "source": "伝授戦法： 山県昌景"
+      },
+      "council_skill_detail": {
+        "name": "別働奇襲",
+        "benefit": "プレイヤーとの戦闘が引き分けた場合、敵軍部隊の被ダメージが4％→8％上昇（魅力依存、10分間持続）",
+        "drawback": "プレイヤーとの戦闘が引分となり、自軍が自発的に撤退した場合、敵軍部隊の与ダメージが2％上昇（5分間持続）"
+      }
+    },
+    {
+      "name": "黒田官兵衛",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763193",
+      "image_url": "https://img.game8.jp/12357845/807836a5ef5a49910c7f20407c6578e0.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "水の如し",
+      "transferable_tactic": "知者楽水",
+      "council_skill": "包囲戦術",
+      "description": "【コスト】7　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 水の如し 【伝授戦法】 知者楽水 【評定衆技能】 包囲戦術",
+      "unique_tactic_detail": {
+        "name": "水の如し",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "受動 毎ターン行動前、及び初めて戦法による回復を受けた時、24%→48%の確率（知略依存）で2.5%→5%の奇策状態を獲得する。最大8回まで重ねがけ可能。毎ターン行動前、30%→60%の確率で敵軍単体に計略ダメージ （1〜2回実行、ダメージ率44%→88%、知略依存）を与える 大将技 ：ダメージを与える確率が15%上昇",
+        "source": "固有戦法： 黒田官兵衛"
+      },
+      "transferable_tactic_detail": {
+        "name": "知者楽水",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2〜3名）",
+        "activation": "100%",
+        "detail": "指揮 戦闘開始後の3ターンの間、自軍複数（2人）が受ける兵刃及び計略ダメージを9%→18%から12%→24%（統率依存。武勇より知略の方が高い味方武将が多い場合は兵刃ダメージ軽減率が上がり、そうでない場合は計略ダメージ軽減率が上がる） 軽減させる。ただし、その与ダメージも5%軽減される 大将技 ：自軍全体が初めのターンに受けるダメージの15%→30%を分担",
+        "source": "伝授戦法： 黒田官兵衛"
+      },
+      "council_skill_detail": {
+        "name": "包囲戦術",
+        "benefit": "部隊の攻城値が5％→10％上昇（魅力依存）",
+        "drawback": "部隊攻城時の与ダメージが1.5％低下"
+      }
+    },
+    {
+      "name": "武田信玄",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747896",
+      "image_url": "https://img.game8.jp/12055646/87ae12a47d4d8ce2dc7a81e011fc6621.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "風林火山",
+      "transferable_tactic": "御旗楯無",
+      "council_skill": "甲州法度次第",
+      "description": "【コスト】7　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 風林火山 【伝授戦法】 御旗楯無 【評定衆技能】 甲州法度次第",
+      "unique_tactic_detail": {
+        "name": "風林火山",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "双方全体",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、2ターンごとに風・林・火・山の順でで旗効果発動。 最初のターンの旗は自身の最も高い属性で決定（速度＝風、知略＝林、武勇＝火、統率＝山）。 風：自軍複数（2～3名）の兵刃与ダメージが11%→22%増加（速度依存） 林：敵軍複数（2～3名）に計略ダメージ（ダメージ率46%→92%、知略依存） 火：敵軍単体への兵刃攻撃1～2回（78%→156%） 山：自軍複数（2～3名）の兵刃被ダメージ11%→22%低下（統率依存） 大将技 ：対象人数増加の確率が25%上昇。",
+        "source": "固有戦法： 武田信玄"
+      },
+      "transferable_tactic_detail": {
+        "name": "御旗楯無",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身がダメージを受けると20%→40%の確率（武勇依存）で、今回の被ダメージが20%→40%（知略依存）低下。また、自身が通常攻撃を受けると20%→40%の確率（統率依存）で、友軍単体が攻撃者に兵刃ダメージ（ダメージ率47%→94%）",
+        "source": "伝授戦法： 武田信玄"
+      },
+      "council_skill_detail": {
+        "name": "甲州法度次第",
+        "benefit": "武将の総レベルがLv.120を超える騎兵部隊を1部隊保有するごとに、すべての騎兵部隊の行軍速度が2.5％→5％上昇（政務依存、最大5回まで重ね掛け可能）",
+        "drawback": "騎兵以外の部隊の行軍速度が5％低下"
+      }
+    },
+    {
+      "name": "毛利元就",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747898",
+      "image_url": "https://img.game8.jp/12055634/35e9d47082a75364b6970ba8265000d5.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "百万一心",
+      "transferable_tactic": "運勝の鼻",
+      "council_skill": "百万一心の家訓",
+      "description": "【コスト】7　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 百万一心 【伝授戦法】 運勝の鼻 【評定衆技能】 百万一心の家訓",
+      "unique_tactic_detail": {
+        "name": "百万一心",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、敵軍複数（2名。7.5%→15%の確率で敵軍全体を選択）が能動戦法発動するたびに、15%→30%の確率で発動を阻止し、計略ダメージ（ダメージ率100%、知略依存） 大将技 ：敵軍全体を選択する確率が17.5%→35%まで増加",
+        "source": "固有戦法： 毛利元就"
+      },
+      "transferable_tactic_detail": {
+        "name": "運勝の鼻",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、準備ターンが必要な固有能動戦法発動時、37.5%→75%の確率で準備時間を1ターンスキップ。スキップに失敗した場合、3ターンの間発動確率が5%→10%増加",
+        "source": "伝授戦法： 毛利元就"
+      },
+      "council_skill_detail": {
+        "name": "百万一心の家訓",
+        "benefit": "指定部隊に配備された同じ家門の武将が2名のみの場合でも25％→50％の施設家門バフを獲得可能（政務依存）",
+        "drawback": "部隊の武将3名の家門が異なる場合、それぞれのメイン属性が2減少"
+      }
+    },
+    {
+      "name": "明智光秀",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747900",
+      "image_url": "https://img.game8.jp/12055626/66fff6dc2c8784b6eb753ddf0885c285.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "時は今",
+      "transferable_tactic": "七十二の計",
+      "council_skill": "桔梗の政",
+      "description": "【コスト】7　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 時は今 【伝授戦法】 七十二の計 【評定衆技能】 桔梗の政",
+      "unique_tactic_detail": {
+        "name": "時は今",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%→70%",
+        "detail": "能動 敵軍複数（2名）に、以下のいずれか1種を付与（既存と異なる状態を優先、ダメージ率56%）。 火傷（知略依存）、水攻め（知略依存）、中毒（知略依存）、消沈（知略依存）、潰走（武勇依存）。 付与状態の持続期間は3ターン。 大将技 ：上記すべての継続状態を所持する対象への状態を浄化不可。",
+        "source": "固有戦法： 明智光秀"
+      },
+      "transferable_tactic_detail": {
+        "name": "七十二の計",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は25%→50%の奇策（発動時に計略ダメージが50%増加）を獲得し、奇策ダメージ率が15%→30%増加。奇策ダメージを7回与えた後、追加で敵軍全体に計略ダメージ（ダメージ率60%→120%、知略依存）",
+        "source": "伝授戦法： 明智光秀"
+      },
+      "council_skill_detail": {
+        "name": "桔梗の政",
+        "benefit": "評定衆技能が最大レベルに到達した評定衆武将1人につき、指定部隊の大将のメイン属性が0.8→1.5増加（政務依存）",
+        "drawback": "評定衆技能レベルアップの所要時間が8％上昇"
+      }
+    },
+    {
+      "name": "松永久秀",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747906",
+      "image_url": "https://img.game8.jp/12055699/eced11b50611643202b7d63879a681e8.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "群雄",
+      "clan": "三好",
+      "gender": "男",
+      "unique_tactic": "梟雄の計",
+      "transferable_tactic": "一行三昧",
+      "council_skill": "茶器の政略",
+      "description": "【コスト】7　【性別】男 【勢力】 群雄\n　【家門】 三好 【固有戦法】 梟雄の計 【伝授戦法】 一行三昧 【評定衆技能】 茶器の政略",
+      "unique_tactic_detail": {
+        "name": "梟雄の計",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、敵軍複数（2～3名）に計略ダメージ（ダメージ率64%→128%、知略依存）。55%の確率で2ターンの間、対象に中毒（中毒状態中の場合は疲弊に変更）・火傷を付与（ダメージ率48%→96%、知略依存、状態ごとに個別判定）。5ターン目以降に発動した場合、50%の確率で自身は知略が25%上昇するが、戦闘終了まで混乱を獲得 大将技 ：発動後、自身は混乱を獲得せずに終了",
+        "source": "固有戦法： 松永久秀"
+      },
+      "transferable_tactic_detail": {
+        "name": "一行三昧",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身の能動戦法の発動確率が7%→14%増加",
+        "source": "伝授戦法： 本願寺顕如 / 松永久秀"
+      },
+      "council_skill_detail": {
+        "name": "茶器の政略",
+        "benefit": "茶会で星5武将を獲得する確率が5％→10％上昇（政務依存）",
+        "drawback": "軍需品商店の商品価格が5％上昇"
+      }
+    },
+    {
+      "name": "酒井忠次",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747950",
+      "image_url": "https://img.game8.jp/12055628/bdc1eb31dcfe874239a66038581308d0.webp/original",
+      "rarity": "★★★★★",
+      "cost": "7",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "破陣乱舞",
+      "transferable_tactic": "三河弓兵隊",
+      "council_skill": "夜間強行",
+      "description": "【コスト】7　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 破陣乱舞 【伝授戦法】 三河弓兵隊 【評定衆技能】 夜間強行",
+      "unique_tactic_detail": {
+        "name": "破陣乱舞",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "50%",
+        "detail": "能動 1ターンの間、自身と武勇が最も高い友軍単体が23%→46%（武勇依存）の破陣を獲得。さらに自身はこのターンの間、通常攻撃時に1回の兵刃ダメージ（ダメージ率103%→206%）を追加で付与。発動後、この戦法は1ターンの間再発動不可 大将技 ：強化通常攻撃発動時、35%の確率で追加で攻撃対象が1増加",
+        "source": "固有戦法： 酒井忠次"
+      },
+      "transferable_tactic_detail": {
+        "name": "三河弓兵隊",
+        "rank": "S",
+        "troop_types": "弓兵",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 弓兵が、百発百中の三河弓兵隊に進化。自軍全体の統率が10→20増加。3ターン目まで、自軍は回生を獲得し、ダメージを受けるたびに17.5%→35%の確率で兵力が一定量回復（回復率32.5%→65%、統率依存）。酒井忠次が装備時、発動確率はさらに統率依存で増加",
+        "source": "伝授戦法： 酒井忠次"
+      },
+      "council_skill_detail": {
+        "name": "夜間強行",
+        "benefit": "指定部隊の夜戦における行軍速度が25％→50％上昇（魅力依存、夜戦時間は夜間と深夜を含む）",
+        "drawback": "夜戦における体力回復速度が10％低下"
+      }
+    },
+    {
+      "name": "お江",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/780761",
+      "image_url": "https://img.game8.jp/12509678/5848b71a55d04456f7fb7294a2614ac6.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "女",
+      "unique_tactic": "風姿綽約",
+      "transferable_tactic": "攻其不備",
+      "council_skill": "内助の功",
+      "description": "【コスト】6　【性別】女 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 風姿綽約 【伝授戦法】 攻其不備 【評定衆技能】 内助の功",
+      "unique_tactic_detail": {
+        "name": "風姿綽約",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "未確認",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、友軍複数（2人）の武勇を2%→4%上昇（知略依存）、毎ターン1回重複、最大4層まで重ね掛け可能。重ね掛けの層数が最大になると、毎ターン32.5%→65%の確率（知略依存）で敵軍単体に混乱、封撃、無策、疲弊の1つを付与する（この戦法が既に付与した弱体化効果は再度付与しない）、1ターン持続",
+        "source": "固有戦法： お江"
+      },
+      "transferable_tactic_detail": {
+        "name": "攻其不備",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "未確認",
+        "activation": "40%",
+        "detail": "能動 統率が最も低い敵軍単体に兵刃ダメージ（ダメージ率84%→168%）を与え、知略が最も低い敵軍単体に計略ダメージ（ダメージ率84%→168%、知略依存）を与える",
+        "source": "伝授戦法： お初 / お江"
+      },
+      "council_skill_detail": {
+        "name": "内助の功",
+        "benefit": "一般NPC職人と遊戯する場合、7.5%→15%の確率で報酬が2倍（政務依存）",
+        "drawback": "一般NPC職人との遊戯に必要な気力が10%上昇"
+      }
+    },
+    {
+      "name": "お初",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/780760",
+      "image_url": "https://img.game8.jp/12509677/d7cec583fe19f234a65c599c44823321.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "女",
+      "unique_tactic": "同気連枝",
+      "transferable_tactic": "攻其不備",
+      "council_skill": "内助の功",
+      "description": "【コスト】6　【性別】女 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 同気連枝 【伝授戦法】 攻其不備 【評定衆技能】 内助の功",
+      "unique_tactic_detail": {
+        "name": "同気連枝",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "未確認",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、友軍複数が通常攻撃後に2.5→5のメイン属性を獲得（知略依存、最大5回まで重ねがけ可能）。毎ターン行動前、24%→48%の確率で敵軍複数（2～3人）を選択し、その敵軍がダメージを与えるたびに、自身は80%の確率（知略依存）でダメージを受けた対象の兵力をそのダメージの14%→28%分（知略依存）を回復、1ターン持続",
+        "source": "固有戦法： お初"
+      },
+      "transferable_tactic_detail": {
+        "name": "攻其不備",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "未確認",
+        "activation": "40%",
+        "detail": "能動 統率が最も低い敵軍単体に兵刃ダメージ（ダメージ率84%→168%）を与え、知略が最も低い敵軍単体に計略ダメージ（ダメージ率84%→168%、知略依存）を与える",
+        "source": "伝授戦法： お初 / お江"
+      },
+      "council_skill_detail": {
+        "name": "内助の功",
+        "benefit": "一般NPC職人と遊戯する場合、7.5%→15%の確率で報酬が2倍（政務依存）",
+        "drawback": "一般NPC職人との遊戯に必要な気力が10%上昇"
+      }
+    },
+    {
+      "name": "大内義隆",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763198",
+      "image_url": "https://img.game8.jp/12357848/e8c4cb70911ff74825806b1d1300de71.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "大内",
+      "gender": "男",
+      "unique_tactic": "末世の道者",
+      "transferable_tactic": "静動自在",
+      "council_skill": "銀産拡張",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 大内 【固有戦法】 末世の道者 【伝授戦法】 静動自在 【評定衆技能】 銀産拡張",
+      "unique_tactic_detail": {
+        "name": "末世の道者",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、知略の最も高い自軍武将の計略ダメージを7%→14%（統率依存）増加させ、7%→14%の心攻状態を付与する。ただし、武勇の最も高い自軍武将の武勇を10%低下させる 大将技 ：武勇低下効果の持続時間が4ターンまで短縮",
+        "source": "固有戦法： 大内義隆"
+      },
+      "transferable_tactic_detail": {
+        "name": "静動自在",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "15%→30%",
+        "detail": "能動 自身より行動順が遅い自軍単体を選択し、洞察と先攻状態を付与し、2ターン持続。自身の行動順が最も遅い場合は、自身に洞察と先攻状態を付与し、2ターン持続",
+        "source": "伝授戦法： 瑞溪院 / 大内義隆"
+      },
+      "council_skill_detail": {
+        "name": "銀産拡張",
+        "benefit": "銀鉱土地の産出量が2.5％→5％上昇（政務依存）",
+        "drawback": "徴発産出量が3％低下"
+      }
+    },
+    {
+      "name": "高橋紹運",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763194",
+      "image_url": "https://img.game8.jp/12357850/5eb6c7da5382a54830d9324e594bbbd4.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "大友",
+      "gender": "男",
+      "unique_tactic": "豊後の戦陣",
+      "transferable_tactic": "乱世の華",
+      "council_skill": "長駆突撃",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 大友 【固有戦法】 豊後の戦陣 【伝授戦法】 乱世の華 【評定衆技能】 長駆突撃",
+      "unique_tactic_detail": {
+        "name": "豊後の戦陣",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自身",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身が洞察状態を獲得し、自身の最も高い属性に応じた強化効果を獲得する（その属性に依存） 武勇：兵刃ダメージが6%→12%上昇。 知略：計略ダメージが6%→12%上昇。 統率：能動戦法の発動率が4%→8%上昇 大将技 ：自身の主要属性を10→20増加させる",
+        "source": "固有戦法： 高橋紹運"
+      },
+      "transferable_tactic_detail": {
+        "name": "乱世の華",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "突撃 通常攻撃後、攻撃対象にもう一度兵刃ダメージ （ダメージ率79%→158%）と計略ダメージ（ダメージ率79%→158%、知略依存）を与える、このダメージは双方の属性差の影響を受ける（兵力ダメージは武勇・統率、計略ダメージは知略・速度が影響）",
+        "source": "伝授戦法： 前田慶次 / 高橋紹運"
+      },
+      "council_skill_detail": {
+        "name": "長駆突撃",
+        "benefit": "指定騎兵部隊が占領、攻城を行う場合、行軍した1マスごとに、部隊の与ダメージが0.1％→0.2％上昇（魅力依存、最大10マス分）",
+        "drawback": "指定騎兵部隊が占領、攻城を行うに必要な体力が2上昇"
+      }
+    },
+    {
+      "name": "前田慶次",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763191",
+      "image_url": "https://img.game8.jp/12357846/790a1a04a6f673a556d8db8dae364e02.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "天下御免",
+      "transferable_tactic": "乱世の華",
+      "council_skill": "夜間強行",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 天下御免 【伝授戦法】 乱世の華 【評定衆技能】 夜間強行",
+      "unique_tactic_detail": {
+        "name": "天下御免",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%→65%",
+        "detail": "突撃 通常攻撃後、対象に追加で兵刃ダメージ（ダメージ率188%）を与える。敵軍の大将に命中した場合、対象に混乱状態（攻撃や戦法の対象を無差別化）を付与し、2ターン持続。敵軍の大将が既に混乱状態の場合、その主要属性を30（武勇依存）吸収する。戦闘終了まで重ねがけ可能",
+        "source": "固有戦法： 前田慶次"
+      },
+      "transferable_tactic_detail": {
+        "name": "乱世の華",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "突撃 通常攻撃後、攻撃対象にもう一度兵刃ダメージ （ダメージ率79%→158%）と計略ダメージ（ダメージ率79%→158%、知略依存）を与える、このダメージは双方の属性差の影響を受ける（兵力ダメージは武勇・統率、計略ダメージは知略・速度が影響）",
+        "source": "伝授戦法： 前田慶次 / 高橋紹運"
+      },
+      "council_skill_detail": {
+        "name": "夜間強行",
+        "benefit": "指定部隊の夜戦における行軍速度が25％→50％上昇（魅力依存、夜戦時間は夜間と深夜を含む）",
+        "drawback": "夜戦における体力回復速度が10％低下"
+      }
+    },
+    {
+      "name": "北条氏康",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747901",
+      "image_url": "https://img.game8.jp/12055676/d7a1c17322a345997aa436feb75a0493.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "北条",
+      "gender": "男",
+      "unique_tactic": "相模の獅子",
+      "transferable_tactic": "所領役帳",
+      "council_skill": "五箇条の訓戒",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 北条 【固有戦法】 相模の獅子 【伝授戦法】 所領役帳 【評定衆技能】 五箇条の訓戒",
+      "unique_tactic_detail": {
+        "name": "相模の獅子",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2〜3名）",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、自軍複数（2～3名）に42.5%→85%の鉄壁（ダメージを無効化）を2回分付与。対象が鉄壁状態中の場合、代わりに敵軍単体に計略ダメージ（ダメージ率89%→178%、知略依存） 大将技 ：鉄壁の発動に失敗時、兵力を回復（回復率40%、知略依存）",
+        "source": "固有戦法： 北条氏康"
+      },
+      "transferable_tactic_detail": {
+        "name": "所領役帳",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "35%",
+        "detail": "能動 ランダムな自軍単体を回復し（回復率106%→212%、知略依存）、2ターンの間、最も兵力が少ない自軍単体に回生を付与し、ダメージを受けるたびに25%→50%の確率で兵力を一定量回復（回復率33%→66%、知略依存）",
+        "source": "伝授戦法： 北条氏康"
+      },
+      "council_skill_detail": {
+        "name": "五箇条の訓戒",
+        "benefit": "自分または捕虜の城に駐屯している間、戦闘後に負傷兵が回復20％→40％（政務依存）",
+        "drawback": "資源地に駐屯している間、戦闘中の士気が5低下"
+      }
+    },
+    {
+      "name": "馬場信春",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747907",
+      "image_url": "https://img.game8.jp/12055645/3a17a21342e2fffde582a62d2b03f552.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "鬼美濃",
+      "transferable_tactic": "以戦養戦",
+      "council_skill": "兵役増強",
+      "description": "【コスト】6　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 鬼美濃 【伝授戦法】 以戦養戦 【評定衆技能】 兵役増強",
+      "unique_tactic_detail": {
+        "name": "鬼美濃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 ダメージを受けると、17.5%→35%の確率で自身の弱体化効果を浄化し、自身の兵力を回復（回復率56%→112%、統率依存）",
+        "source": "固有戦法： 馬場信春"
+      },
+      "transferable_tactic_detail": {
+        "name": "以戦養戦",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は12.5%→25%の離反（兵刃ダメージを与えた際にダメージ量に応じて兵力回復）を獲得。5ターン目にもう1回12.5%→25%の離反を獲得。自身の兵力が50%以下の場合、追加で12.5%→25%の会心を獲得",
+        "source": "伝授戦法： 馬場信春"
+      },
+      "council_skill_detail": {
+        "name": "兵役増強",
+        "benefit": "兵舎の兵力が2％→4％上昇（政務依存）",
+        "drawback": "土地の兵糧産出量が2％低下"
+      }
+    },
+    {
+      "name": "伊達晴宗",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747911",
+      "image_url": "https://img.game8.jp/12055682/88d181b63f8c55472b3153180b122772.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "伊達",
+      "gender": "男",
+      "unique_tactic": "掃疑平乱",
+      "transferable_tactic": "一力当先",
+      "council_skill": "兵糧増産",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 伊達 【固有戦法】 掃疑平乱 【伝授戦法】 一力当先 【評定衆技能】 兵糧増産",
+      "unique_tactic_detail": {
+        "name": "掃疑平乱",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 2ターンの間、自身と友軍単体が39%→78%の乱舞を獲得（速度依存）。5ターン目以降は、追加で2ターンの間、双方の速度が10%→20%上昇 大将技 ：武勇のより高い友軍単体優先",
+        "source": "固有戦法： 伊達晴宗"
+      },
+      "transferable_tactic_detail": {
+        "name": "一力当先",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "40%",
+        "detail": "能動 2ターンの間、自身の通常攻撃ダメージが25%→50%上昇、乱舞（通常攻撃時、対象部隊の他武将へもダメージ。ダメージ率35%→70%）を獲得",
+        "source": "伝授戦法： 松平信康 / 伊達晴宗"
+      },
+      "council_skill_detail": {
+        "name": "兵糧増産",
+        "benefit": "施設の兵糧産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "榊原康政",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747915",
+      "image_url": "https://img.game8.jp/12055649/f483ad962e9bda93123b6da2c5d169b8.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "無想掃討",
+      "transferable_tactic": "気勢衝天",
+      "council_skill": "兵役増強",
+      "description": "【コスト】6　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 無想掃討 【伝授戦法】 気勢衝天 【評定衆技能】 兵役増強",
+      "unique_tactic_detail": {
+        "name": "無想掃討",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（1〜2名）",
+        "activation": "60%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率51%→102%）を与え、50%の確率（速度依存）で追加で他の敵軍単体に兵刃ダメージ。2ターンの間、自身の兵刃与ダメージが25%→50%上昇。自身より先に行動した武将1名につき、兵刃与ダメージ上昇効果が5%→10%減少 大将技 ：与ダメージ上昇効果の減少回数が最大2回までになる",
+        "source": "固有戦法： 榊原康政"
+      },
+      "transferable_tactic_detail": {
+        "name": "気勢衝天",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 4ターン目まで、自身の行動時に80%の確率で1ターンの間、武勇が最も高い敵軍武将の兵刃与ダメージが15%→30%低下（武勇依存）、知略が最も高い敵軍武将の計略与ダメージが15%→30%低下（武勇依存）",
+        "source": "伝授戦法： 榊原康政"
+      },
+      "council_skill_detail": {
+        "name": "兵役増強",
+        "benefit": "兵舎の兵力が2％→4％上昇（政務依存）",
+        "drawback": "土地の兵糧産出量が2％低下"
+      }
+    },
+    {
+      "name": "山本勘助",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747916",
+      "image_url": "https://img.game8.jp/12055661/03cec8076ab7083cdc5b659dea5a2f39.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "啄木鳥",
+      "transferable_tactic": "草木皆兵",
+      "council_skill": "別働奇襲",
+      "description": "【コスト】6　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 啄木鳥 【伝授戦法】 草木皆兵 【評定衆技能】 別働奇襲",
+      "unique_tactic_detail": {
+        "name": "啄木鳥",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率78%→156%、知略依存）を与え、武勇が最も高い自軍単体が同じ対象に兵刃ダメージ（ダメージ率80%→160%、武勇と速度依存）。さらに1ターンの間、17.5%→35%の確率（速度依存）で威圧を付与 大将技 ：5%→10%の確率で啄木鳥の戦法をもう1回発動",
+        "source": "固有戦法： 山本勘助"
+      },
+      "transferable_tactic_detail": {
+        "name": "草木皆兵",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "50%",
+        "detail": "能動 1ターンの準備後、敵軍複数（2名）に計略ダメージ（ダメージ率71%→142%）を与え、自軍複数（2名）の兵力を回復（回復率53%→106%、知略依存）",
+        "source": "伝授戦法： 毛利隆元 / 山本勘助"
+      },
+      "council_skill_detail": {
+        "name": "別働奇襲",
+        "benefit": "プレイヤーとの戦闘が引き分けた場合、敵軍部隊の被ダメージが4％→8％上昇（魅力依存、10分間持続）",
+        "drawback": "プレイヤーとの戦闘が引分となり、自軍が自発的に撤退した場合、敵軍部隊の与ダメージが2％上昇（5分間持続）"
+      }
+    },
+    {
+      "name": "竹中半兵衛",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747919",
+      "image_url": "https://img.game8.jp/12055644/38490ed83ce93dac400f9d756ee38694.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "十面埋伏",
+      "transferable_tactic": "大智不智",
+      "council_skill": "強攻戦術",
+      "description": "【コスト】6　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 十面埋伏 【伝授戦法】 大智不智 【評定衆技能】 強攻戦術",
+      "unique_tactic_detail": {
+        "name": "十面埋伏",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍全体（3名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、敵軍全体の被ダメージが9%→18%（知略依存）上昇。その後、対象全体に計略ダメージ（ダメージ率69%→138%、知略依存） 大将技 ：5ターン目以降に発動する場合、被ダメージ上昇効果は解除不可",
+        "source": "固有戦法： 竹中半兵衛"
+      },
+      "transferable_tactic_detail": {
+        "name": "大智不智",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "30%",
+        "detail": "能動 敵軍複数（2名）に消沈を付与し、2ターンの間、毎ターン持続ダメージ（ダメージ率52%→104%、知略依存）を与え、さらに対象の兵刃被ダメージが10%→20%上昇",
+        "source": "伝授戦法： 寿桂尼 / 竹中半兵衛"
+      },
+      "council_skill_detail": {
+        "name": "強攻戦術",
+        "benefit": "部隊攻城時の与ダメージが1.5％→3％上昇（魅力依存）",
+        "drawback": "部隊の攻城値が5％低下"
+      }
+    },
+    {
+      "name": "成田甲斐",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747921",
+      "image_url": "https://img.game8.jp/12055696/22649ec3a5734a7c1c021f4fb65880aa.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "女",
+      "unique_tactic": "東国無双の麗",
+      "transferable_tactic": "前後挟撃",
+      "council_skill": "城塁固守",
+      "description": "【コスト】6　【性別】女 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 東国無双の麗 【伝授戦法】 前後挟撃 【評定衆技能】 城塁固守",
+      "unique_tactic_detail": {
+        "name": "東国無双の麗",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は連撃（1ターンに2回通常攻撃）を獲得し、自身の武勇が3→30増加",
+        "source": "固有戦法： 成田甲斐"
+      },
+      "transferable_tactic_detail": {
+        "name": "前後挟撃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "25%→35%",
+        "detail": "能動 1ターンの間、自身と友軍単体は連撃（1ターンに2回通常攻撃）を獲得",
+        "source": "伝授戦法： 十河一存 / 成田甲斐"
+      },
+      "council_skill_detail": {
+        "name": "城塁固守",
+        "benefit": "自身の本城、支城および一門の中立城で交戦した場合、部隊の被ダメージが2％→4％低下（魅力依存）",
+        "drawback": "資源地に駐屯している間、被ダメージが1％上昇"
+      }
+    },
+    {
+      "name": "ねね",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747922",
+      "image_url": "https://img.game8.jp/12055652/72302bfb51603b58e2ddae113761e4e2.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "女",
+      "unique_tactic": "比翼連理",
+      "transferable_tactic": "沈魚落雁",
+      "council_skill": "茶器の政略",
+      "description": "【コスト】6　【性別】女 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 比翼連理 【伝授戦法】 沈魚落雁 【評定衆技能】 茶器の政略",
+      "unique_tactic_detail": {
+        "name": "比翼連理",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍大将",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、自軍全体が戦法で回復を付与するたびに、回復量の75%を蓄積。大将の行動が終了するたびに40%→80%の確率で敵軍複数（1～2名）に計略ダメージ（ダメージ率46%→92%、知略と回復の蓄積量依存）を与え、蓄積された回復量をリセット",
+        "source": "固有戦法： ねね"
+      },
+      "transferable_tactic_detail": {
+        "name": "沈魚落雁",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "受動 自身が通常攻撃を受けた際、18%→36%の確率で1ターンの間、攻撃者に以下の状態を1つ付与：混乱（攻撃と戦法の目標ランダムに選択）、無策（能動戦法が発動不能）、疲弊（与ダメージが無効）。自身が女性の場合、発動確率は追加で魅力依存",
+        "source": "伝授戦法： お市 / ねね"
+      },
+      "council_skill_detail": {
+        "name": "茶器の政略",
+        "benefit": "茶会で星5武将を獲得する確率が5％→10％上昇（政務依存）",
+        "drawback": "軍需品商店の商品価格が5％上昇"
+      }
+    },
+    {
+      "name": "甘粕景持",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747927",
+      "image_url": "https://img.game8.jp/12055688/6b916cdbd7ef0dc40e30554a7a421562.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "疾風怒濤",
+      "transferable_tactic": "乗勝追撃",
+      "council_skill": "鉄砲教練",
+      "description": "【コスト】6　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 疾風怒濤 【伝授戦法】 乗勝追撃 【評定衆技能】 鉄砲教練",
+      "unique_tactic_detail": {
+        "name": "疾風怒濤",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "40%",
+        "detail": "能動 2ターンの間、自身と友軍単体が22.5%→45%の会心を獲得し、敵軍複数（2名）に兵刃ダメージ（ダメージ率51%→102%）",
+        "source": "固有戦法： 甘粕景持"
+      },
+      "transferable_tactic_detail": {
+        "name": "乗勝追撃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍全体（3名）",
+        "activation": "30%",
+        "detail": "突撃 通常攻撃後、敵軍全体にもう一度兵刃ダメージ（ダメージ率68%→136%）",
+        "source": "伝授戦法： 甘粕景持"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲教練",
+        "benefit": "軍学修習中、鉄砲委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、騎馬委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "太田資正",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747932",
+      "image_url": "https://img.game8.jp/12055692/e2afe89b9d4e6f2d9c5c61cf7d3bd938.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "三楽犬",
+      "transferable_tactic": "百戦錬磨",
+      "council_skill": "城塁固守",
+      "description": "【コスト】6　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 三楽犬 【伝授戦法】 百戦錬磨 【評定衆技能】 城塁固守",
+      "unique_tactic_detail": {
+        "name": "三楽犬",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2〜3名）",
+        "activation": "25%→45%",
+        "detail": "能動 1ターンの間、自軍複数（2～3名）が先攻・必中を獲得し、速度が最も高い敵軍単体に標記を付与。付与された対象が行動すると、強化された自軍がその対象に兵刃ダメージ（ダメージ率146%）。1ターン後に再発動可能",
+        "source": "固有戦法： 太田資正"
+      },
+      "transferable_tactic_detail": {
+        "name": "百戦錬磨",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身の武勇・知略・統率・速度が21→42増加",
+        "source": "伝授戦法： 南部晴政 / 太田資正"
+      },
+      "council_skill_detail": {
+        "name": "城塁固守",
+        "benefit": "自身の本城、支城および一門の中立城で交戦した場合、部隊の被ダメージが2％→4％低下（魅力依存）",
+        "drawback": "資源地に駐屯している間、被ダメージが1％上昇"
+      }
+    },
+    {
+      "name": "板垣信方",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747934",
+      "image_url": "https://img.game8.jp/12055659/bed721485471cc2a928bb8788a3f465b.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "先手必勝",
+      "transferable_tactic": "奇謀独断",
+      "council_skill": "鉄鉱増産",
+      "description": "【コスト】6　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 先手必勝 【伝授戦法】 奇謀独断 【評定衆技能】 鉄鉱増産",
+      "unique_tactic_detail": {
+        "name": "先手必勝",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 敵軍複数（2名）に計略ダメージ（ダメージ率67%→134%、知略依存）を与え、2ターンの間、対象が次に受ける能動戦法のダメージが26%→52%上昇",
+        "source": "固有戦法： 板垣信方"
+      },
+      "transferable_tactic_detail": {
+        "name": "奇謀独断",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "25%→35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、敵軍複数（2名）に無策（能動戦法発動不可）を付与",
+        "source": "伝授戦法： 板垣信方 / 樋口兼豊"
+      },
+      "council_skill_detail": {
+        "name": "鉄鉱増産",
+        "benefit": "施設の鉄鉱産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "甘利虎泰",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747936",
+      "image_url": "https://img.game8.jp/12055672/d9b9463bf6a8858250508936e3d1122f.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "剛の武者",
+      "transferable_tactic": "剛毅果断",
+      "council_skill": "騎馬教練",
+      "description": "【コスト】6　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 剛の武者 【伝授戦法】 剛毅果断 【評定衆技能】 騎馬教練",
+      "unique_tactic_detail": {
+        "name": "剛の武者",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、攻撃対象に兵刃ダメージ（ダメージ率123%→246%）を与え、2ターンの間、その次の計略与ダメージが37.5%→75%低下",
+        "source": "固有戦法： 甘利虎泰"
+      },
+      "transferable_tactic_detail": {
+        "name": "剛毅果断",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "40%",
+        "detail": "能動 3ターンの間、自身の突撃戦法の与ダメージが17.5%→35%上昇、能動戦法の被ダメージが10%→20%低下（1ターン後に再発動可能）",
+        "source": "伝授戦法： 甘利虎泰 / 小島弥太郎"
+      },
+      "council_skill_detail": {
+        "name": "騎馬教練",
+        "benefit": "軍学修習中、騎馬委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、鉄砲委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "飯富虎昌",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747938",
+      "image_url": "https://img.game8.jp/12055664/40b90c409f3581131d0131eac1d80495.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "甲山猛虎",
+      "transferable_tactic": "赤備え隊",
+      "council_skill": "軍事重視",
+      "description": "【コスト】6　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 甲山猛虎 【伝授戦法】 赤備え隊 【評定衆技能】 軍事重視",
+      "unique_tactic_detail": {
+        "name": "甲山猛虎",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "45%",
+        "detail": "能動 敵軍複数（2名）に兵刃ダメージ（ダメージ率48%→96%）を与え、1ターンの間封撃を付与。対象が既に封撃状態の場合、ダメージ率は68%→136%に上昇",
+        "source": "固有戦法： 飯富虎昌"
+      },
+      "transferable_tactic_detail": {
+        "name": "赤備え隊",
+        "rank": "S",
+        "troop_types": "騎兵",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 騎兵が、横掃千軍の赤備え隊に進化。自軍全体が17.5%→35%の会心（発動時、兵刃ダメージが50%増加）を獲得。飯富虎昌が装備時、自軍全体が会心ダメージを計10回与えると全軍出撃（自軍全体がそれぞれランダムな敵軍単体に兵刃ダメージ、ダメージ率44%→88%）を発動",
+        "source": "伝授戦法： 飯富虎昌"
+      },
+      "council_skill_detail": {
+        "name": "軍事重視",
+        "benefit": "軍事施設昇格時の所要時間が20％→40％低下（政務依存）",
+        "drawback": "調馬の資源消費が5％上昇"
+      }
+    },
+    {
+      "name": "佐久間信盛",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747941",
+      "image_url": "https://img.game8.jp/12055651/8a5683a0d09d39867921ed3b9396381d.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "陣前無我",
+      "transferable_tactic": "罵詈雑言",
+      "council_skill": "騎馬教練",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 陣前無我 【伝授戦法】 罵詈雑言 【評定衆技能】 騎馬教練",
+      "unique_tactic_detail": {
+        "name": "陣前無我",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "30%→55%",
+        "detail": "能動 自身の兵力が自軍の最低値でない場合、1ターンの間、敵軍複数（2～3名）に挑発と牽制（強制的に敵軍の通常攻撃と戦法の発動対象を自身に固定）を付与。そうでない場合、自身の兵力を回復（回復率258%、統率依存）",
+        "source": "固有戦法： 佐久間信盛"
+      },
+      "transferable_tactic_detail": {
+        "name": "罵詈雑言",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "100%",
+        "detail": "指揮 3ターン目まで、敵軍複数（2～3名）に挑発（毎ターン45%→90%の確率で強制的に自身を通常攻撃の対象に固定）を付与。さらに自身が受ける通常攻撃と突撃戦法のダメージが25%→50%低下。自身が大将の場合、挑発は付与しない",
+        "source": "伝授戦法： 佐久間信盛 / 原虎胤"
+      },
+      "council_skill_detail": {
+        "name": "騎馬教練",
+        "benefit": "軍学修習中、騎馬委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、鉄砲委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "荒木村重",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747943",
+      "image_url": "https://img.game8.jp/12055662/b3fd6273fb8e2e71f617b07b301f43b7.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "形影相弔",
+      "transferable_tactic": "戦意消沈",
+      "council_skill": "市利偏重",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 形影相弔 【伝授戦法】 戦意消沈 【評定衆技能】 市利偏重",
+      "unique_tactic_detail": {
+        "name": "形影相弔",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "能動 自身と知略が最も高い敵軍武将で同時にランダムな敵軍単体に計略ダメージ（ダメージ率96%→192%、知略依存）。ただし、6ターン目以降は、知略が最も高い敵軍武将の計略ダメージの対象が友軍単体に変更",
+        "source": "固有戦法： 荒木村重"
+      },
+      "transferable_tactic_detail": {
+        "name": "戦意消沈",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 敵軍複数（2名）に対し、1ターン目に1名へ、3ターン目にもう1名へ、疲弊を付与（2ターンの間、与ダメージを25％→50％の確率で無効）",
+        "source": "伝授戦法： 大祝鶴 / 荒木村重"
+      },
+      "council_skill_detail": {
+        "name": "市利偏重",
+        "benefit": "施設の銀銭産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の木材、鉄鉱、石材、兵糧産出量が3％低下"
+      }
+    },
+    {
+      "name": "明智秀満",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747944",
+      "image_url": "https://img.game8.jp/12055655/e3ff439eb70b5547802a0d282db93c29.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "湖水渡り",
+      "transferable_tactic": "死中求活",
+      "council_skill": "鉄砲教練",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 湖水渡り 【伝授戦法】 死中求活 【評定衆技能】 鉄砲教練",
+      "unique_tactic_detail": {
+        "name": "湖水渡り",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "30%→65%",
+        "detail": "能動 2ターンの間、自身と友軍単体が奇策を65%獲得。期間中、奇策ダメージを1回与えるたびに、奇策ダメージ率が15%増加（最大4回重ねがけ可能、戦闘終了まで持続）",
+        "source": "固有戦法： 明智秀満"
+      },
+      "transferable_tactic_detail": {
+        "name": "死中求活",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は兵刃ダメージを受けるたびに武勇が2.5→5増加（最大10回まで重ねがけ可能）。5ターン目に、敵軍全体に兵刃ダメージ（ダメージ率62.5%→125%、1回重ねがけにつきダメージが追加で6%→12%増加）",
+        "source": "伝授戦法： 可児才蔵 / 明智秀満"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲教練",
+        "benefit": "軍学修習中、鉄砲委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、騎馬委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "松平信康",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747952",
+      "image_url": "https://img.game8.jp/12055674/010390bfa96172cff4c7e8b9dada6e3c.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "勇志不抜",
+      "transferable_tactic": "一力当先",
+      "council_skill": "弓兵教練",
+      "description": "【コスト】6　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 勇志不抜 【伝授戦法】 一力当先 【評定衆技能】 弓兵教練",
+      "unique_tactic_detail": {
+        "name": "勇志不抜",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "35%",
+        "detail": "能動 2ターンの間、友軍複数（2名）の被ダメージの20%を肩代りし、自身の武勇が37.5→75増加し、12%→24%の離反を獲得。自身の兵力が50%以下の場合は武勇が50→100増加し、16%→32%の離反を獲得",
+        "source": "固有戦法： 松平信康"
+      },
+      "transferable_tactic_detail": {
+        "name": "一力当先",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "40%",
+        "detail": "能動 2ターンの間、自身の通常攻撃ダメージが25%→50%上昇、乱舞（通常攻撃時、対象部隊の他武将へもダメージ。ダメージ率35%→70%）を獲得",
+        "source": "伝授戦法： 松平信康 / 伊達晴宗"
+      },
+      "council_skill_detail": {
+        "name": "弓兵教練",
+        "benefit": "軍学修習中、弓兵委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、足軽委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "大祝鶴",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747958",
+      "image_url": "https://img.game8.jp/12055660/ae9d808bce77ac1092b06d7b66dbad36.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "河野",
+      "gender": "女",
+      "unique_tactic": "月華鶴影",
+      "transferable_tactic": "戦意消沈",
+      "council_skill": "年功加俸",
+      "description": "【コスト】6　【性別】女 【勢力】 群雄\n　【家門】 河野 【固有戦法】 月華鶴影 【伝授戦法】 戦意消沈 【評定衆技能】 年功加俸",
+      "unique_tactic_detail": {
+        "name": "月華鶴影",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、友軍複数（2名）が通常攻撃を受けると35%の確率で敵軍複数に兵刃ダメージ（ダメージ率51%→102%）。友軍が通常攻撃を4回受けるたびに、自身が12.5%→25%の会心を獲得（2回まで重ねがけ可能）",
+        "source": "固有戦法： 大祝鶴"
+      },
+      "transferable_tactic_detail": {
+        "name": "戦意消沈",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 敵軍複数（2名）に対し、1ターン目に1名へ、3ターン目にもう1名へ、疲弊を付与（2ターンの間、与ダメージを25％→50％の確率で無効）",
+        "source": "伝授戦法： 大祝鶴 / 荒木村重"
+      },
+      "council_skill_detail": {
+        "name": "年功加俸",
+        "benefit": "評定衆の任命期間が7日以上の場合、任命中の経験値獲得量が4％→8％上昇（政務依存）",
+        "drawback": "評定衆の任命期間が7日未満の場合、任命中の経験値獲得量が3％低下"
+      }
+    },
+    {
+      "name": "島津貴久",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747961",
+      "image_url": "https://img.game8.jp/12055737/0623e4011a3dd24313bbe03960385989.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "島津",
+      "gender": "男",
+      "unique_tactic": "旋乾転坤",
+      "transferable_tactic": "薩摩鉄砲兵",
+      "council_skill": "鉄砲補給",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 島津 【固有戦法】 旋乾転坤 【伝授戦法】 薩摩鉄砲兵 【評定衆技能】 鉄砲補給",
+      "unique_tactic_detail": {
+        "name": "旋乾転坤",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "30%",
+        "detail": "能動 敵軍複数（2～3名）に計略ダメージ（ダメージ率63%→126%、知略依存）を与え、恐慌を付与。対象が指揮・受動戦法を所持している場合、2ターンの間、毎ターン対象に計略ダメージ（ダメージ率32%→64%、所持している指揮・受動戦法が1つ増加するたびにダメージ率が17%→34%増加、知略依存）。1ターン後に再発動可能 大将技 ：発動時の計略ダメージのダメージ率が73%→146%に増加",
+        "source": "固有戦法： 島津貴久"
+      },
+      "transferable_tactic_detail": {
+        "name": "薩摩鉄砲兵",
+        "rank": "S",
+        "troop_types": "鉄砲",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 鉄砲が、鉄火烈襲の薩摩鉄砲兵に進化。自軍全体の通常攻撃が計略攻撃へ転換。基本ダメージ率が20%→40%増加するが、攻撃した後、1ターン後に再発動可能。島津貴久が装備時、基本ダメージ率は30%→60%まで増加",
+        "source": "伝授戦法： 島津貴久"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲補給",
+        "benefit": "鉄砲櫓の戦功獲得上限が25％→50％上昇（政務依存）",
+        "drawback": "鉄砲櫓の木材、鉄鉱、石材消費量が2％上昇"
+      }
+    },
+    {
+      "name": "真柄直隆",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747963",
+      "image_url": "https://img.game8.jp/12058822/85b4656607631d926cd3a6fd9c1edb62.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "朝倉",
+      "gender": "男",
+      "unique_tactic": "怪力無双",
+      "transferable_tactic": "大太刀力士隊",
+      "council_skill": "兵器強化",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 朝倉 【固有戦法】 怪力無双 【伝授戦法】 大太刀力士隊 【評定衆技能】 兵器強化",
+      "unique_tactic_detail": {
+        "name": "怪力無双",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "75%",
+        "detail": "能動 2ターンの準備後、敵軍複数（2～3名）に大量の兵刃ダメージ（ダメージ率166.5%→333%）。この攻撃で対象を倒した場合、2ターンの間、自身が破陣を獲得 大将技 ：攻撃対象は敵軍3名",
+        "source": "固有戦法： 真柄直隆"
+      },
+      "transferable_tactic_detail": {
+        "name": "大太刀力士隊",
+        "rank": "S",
+        "troop_types": "足軽",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 足軽が、臨戦態勢の大太刀力士隊に進化。自軍全体は通常攻撃ダメージを受けた際に15%→30%の確率で攻撃者に反撃（ダメージ率50%→100%）を付与。2ターン目まで、通常攻撃と突撃戦法による被ダメージが9%→18%（武勇依存）低下。真柄直隆が装備時、反撃時に自身は12.5%→25%の確率で対象に追加の兵刃ダメージ（ダメージ率60%→120%）",
+        "source": "伝授戦法： 真柄直隆"
+      },
+      "council_skill_detail": {
+        "name": "兵器強化",
+        "benefit": "指定部隊の兵器レベルがLv.5より高い場合、レベル差1につき与ダメージが0.2％→0.4％上昇（魅力依存）",
+        "drawback": "指定部隊の兵器レベルがLv.5以下の場合、レベル差1につき与ダメージが0.4％低下"
+      }
+    },
+    {
+      "name": "宮部継潤",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747964",
+      "image_url": "https://img.game8.jp/12058817/2f45b76572b816f6392571a58d798f5b.webp/original",
+      "rarity": "★★★★★",
+      "cost": "6",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "積水成淵",
+      "transferable_tactic": "僧兵",
+      "council_skill": "木産拡張",
+      "description": "【コスト】6　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 積水成淵 【伝授戦法】 僧兵 【評定衆技能】 木産拡張",
+      "unique_tactic_detail": {
+        "name": "積水成淵",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、自軍複数（2～3名）に11%→22%の心攻（計略ダメージを与えた際にダメージ量に応じて兵力回復）を付与。さらに2ターンの間、敵軍複数（2～3名）に水攻めを付与し、毎ターン持続ダメージを与える（ダメージ率88%、知略依存）",
+        "source": "固有戦法： 宮部継潤"
+      },
+      "transferable_tactic_detail": {
+        "name": "僧兵",
+        "rank": "S",
+        "troop_types": "足軽",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 足軽が、不退転の僧兵に進化。自軍全体の兵刃被ダメージが10%→20%（統率依存）低下。ただし、弱体化効果継続中の場合は追加で毎ターン兵力が損失（ダメージ率30%→60%、火傷状態中は120%→240%に増加）。宮部継潤が装備時、火傷以外の継続状態は無効",
+        "source": "伝授戦法： 宮部継潤"
+      },
+      "council_skill_detail": {
+        "name": "木産拡張",
+        "benefit": "木材土地の産出量が4％→8％上昇（政務依存）",
+        "drawback": "木材の徴発産出量が3％低下"
+      }
+    },
+    {
+      "name": "相馬盛胤",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763192",
+      "image_url": "https://img.game8.jp/12357851/c4b441a167ead429d27177d1b5b2d845.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "相馬",
+      "gender": "男",
+      "unique_tactic": "先陣鼓舞",
+      "transferable_tactic": "境目奮戦",
+      "council_skill": "成果加俸",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 相馬 【固有戦法】 先陣鼓舞 【伝授戦法】 境目奮戦 【評定衆技能】 成果加俸",
+      "unique_tactic_detail": {
+        "name": "先陣鼓舞",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ （ダメージ率121%→242%）を与え、さらに自軍単体の固有戦法発動確率を8%→16%増加させる。2ターン持続 大将技 ：発動確率がさらに4%上昇",
+        "source": "固有戦法： 相馬盛胤"
+      },
+      "transferable_tactic_detail": {
+        "name": "境目奮戦",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、兵力の最も低い敵軍単体に計略ダメージ（ダメージ率130%→260%、知略依存）を与え、その敵軍が受ける回復効果を15%→30%低下させる。1ターン持続",
+        "source": "伝授戦法： 相馬盛胤 / 里見義堯"
+      },
+      "council_skill_detail": {
+        "name": "成果加俸",
+        "benefit": "配備した部隊にLv.40を上回る武将1名いるごとに、戦闘による経験値獲得量が0.4％→0.8％上昇（魅力依存）",
+        "drawback": "1つの部隊にLv.35未満の武将が1名いるごとに、戦闘による経験値獲得量が1％低下"
+      }
+    },
+    {
+      "name": "安東愛季",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747913",
+      "image_url": "https://img.game8.jp/12055622/72f39457ca42ebacb241b08ec4eb2ecf.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "安東",
+      "gender": "男",
+      "unique_tactic": "斗星北天",
+      "transferable_tactic": "文武両道",
+      "council_skill": "内治重視",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 安東 【固有戦法】 斗星北天 【伝授戦法】 文武両道 【評定衆技能】 内治重視",
+      "unique_tactic_detail": {
+        "name": "斗星北天",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、自身は洞察を獲得し、統率と知略が25→50増加し、敵軍複数（2～3名）に牽制（37.5%→75%の確率で自身を敵軍戦法の発動対象に固定、知略依存）を付与",
+        "source": "固有戦法： 安東愛季"
+      },
+      "transferable_tactic_detail": {
+        "name": "文武両道",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は計略ダメージを与えるたびに武勇が15→30増加（最大5回まで重ねがけ可能）、兵刃ダメージを与えるたびに知略が15→30増加（最大5回まで重ねがけ可能）",
+        "source": "伝授戦法： 安東愛季"
+      },
+      "council_skill_detail": {
+        "name": "内治重視",
+        "benefit": "内政施設昇格時の所要時間が20％→40％低下（政務依存）",
+        "drawback": "本城および支城の徴兵速度が5％低下"
+      }
+    },
+    {
+      "name": "毛利隆元",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747920",
+      "image_url": "https://img.game8.jp/12055623/47e8840880cd40060ce3e4f0b7902f18.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "一心一徳",
+      "transferable_tactic": "草木皆兵",
+      "council_skill": "内治重視",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 一心一徳 【伝授戦法】 草木皆兵 【評定衆技能】 内治重視",
+      "unique_tactic_detail": {
+        "name": "一心一徳",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2〜3名）",
+        "activation": "50%",
+        "detail": "能動 自軍複数（2～3名）を回復し（回復率30%→60%、知略依存）、1ターンの間休養（毎ターン兵力回復）を付与（回復率38%→76%、知略依存）",
+        "source": "固有戦法： 毛利隆元"
+      },
+      "transferable_tactic_detail": {
+        "name": "草木皆兵",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "50%",
+        "detail": "能動 1ターンの準備後、敵軍複数（2名）に計略ダメージ（ダメージ率71%→142%）を与え、自軍複数（2名）の兵力を回復（回復率53%→106%、知略依存）",
+        "source": "伝授戦法： 毛利隆元 / 山本勘助"
+      },
+      "council_skill_detail": {
+        "name": "内治重視",
+        "benefit": "内政施設昇格時の所要時間が20％→40％低下（政務依存）",
+        "drawback": "本城および支城の徴兵速度が5％低下"
+      }
+    },
+    {
+      "name": "仙桃院",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747928",
+      "image_url": "https://img.game8.jp/12055704/eb1302f4c40aea73e7d7413b37c50fe5.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "女",
+      "unique_tactic": "献身",
+      "transferable_tactic": "戦意崩壊",
+      "council_skill": "内政倹約",
+      "description": "【コスト】5　【性別】女 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 献身 【伝授戦法】 戦意崩壊 【評定衆技能】 内政倹約",
+      "unique_tactic_detail": {
+        "name": "献身",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "友軍単体",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、自身の行動時に22%→44%の確率（知略依存）で自軍異性が次の攻撃で追加でランダムな敵軍単体に兵刃ダメージ（ダメージ率131%→262%）。そのターン中、自身への被ダメージが20%上昇",
+        "source": "固有戦法： 仙桃院"
+      },
+      "transferable_tactic_detail": {
+        "name": "戦意崩壊",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "20%→35%",
+        "detail": "突撃 通常攻撃後、2ターンの間、対象の統率と知略が65低下し、自軍大将に2回分の鉄壁（被ダメージ無効）を付与。自身が大将の場合は1回分の鉄壁しか獲得不可",
+        "source": "伝授戦法： 諏訪姫 / 仙桃院"
+      },
+      "council_skill_detail": {
+        "name": "内政倹約",
+        "benefit": "内政施設昇格時、即時完了に必要な小判が0.3→0.6減少（政務依存）",
+        "drawback": "内政施設昇格時の所要時間が5％上昇"
+      }
+    },
+    {
+      "name": "千坂景親",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747930",
+      "image_url": "https://img.game8.jp/12055643/a1b42de8219001e377018ba74d692e36.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "耐苦鍛錬",
+      "transferable_tactic": "按甲休兵",
+      "council_skill": "木材増産",
+      "description": "【コスト】5　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 耐苦鍛錬 【伝授戦法】 按甲休兵 【評定衆技能】 木材増産",
+      "unique_tactic_detail": {
+        "name": "耐苦鍛錬",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、自身が通常攻撃を受けた際に自身の武勇と統率が7→14増加（5回まで重ねがけ可能）。最大重ねがけ数に達すると、敵軍全体に兵刃ダメージ（ダメージ率80%→160%）。3ターン目まで、自軍大将を援護",
+        "source": "固有戦法： 千坂景親"
+      },
+      "transferable_tactic_detail": {
+        "name": "按甲休兵",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は休養（毎ターン兵力回復、回復率70%→140%）を獲得",
+        "source": "伝授戦法： 朝倉義景 / 千坂景親"
+      },
+      "council_skill_detail": {
+        "name": "木材増産",
+        "benefit": "施設の木材産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "樋口兼豊",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747931",
+      "image_url": "https://img.game8.jp/12055629/405d2f46946bbef211cfe7901cb56c22.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "密報通暁",
+      "transferable_tactic": "奇謀独断",
+      "council_skill": "木産拡張",
+      "description": "【コスト】5　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 密報通暁 【伝授戦法】 奇謀独断 【評定衆技能】 木産拡張",
+      "unique_tactic_detail": {
+        "name": "密報通暁",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "25%→50%",
+        "detail": "能動 1ターンの準備後、2ターンの間、友軍単体が洞察を獲得し、敵軍単体に撹乱（能動戦法発動時に計略ダメージ、ダメージ率152%、知略依存）を付与",
+        "source": "固有戦法： 樋口兼豊"
+      },
+      "transferable_tactic_detail": {
+        "name": "奇謀独断",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "25%→35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、敵軍複数（2名）に無策（能動戦法発動不可）を付与",
+        "source": "伝授戦法： 板垣信方 / 樋口兼豊"
+      },
+      "council_skill_detail": {
+        "name": "木産拡張",
+        "benefit": "木材土地の産出量が4％→8％上昇（政務依存）",
+        "drawback": "木材の徴発産出量が3％低下"
+      }
+    },
+    {
+      "name": "小島弥太郎",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747933",
+      "image_url": "https://img.game8.jp/12055669/81d1727c726bb82f8c36f5ebbbfc5031.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "鬼小島",
+      "transferable_tactic": "剛毅果断",
+      "council_skill": "足軽教練",
+      "description": "【コスト】5　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 鬼小島 【伝授戦法】 剛毅果断 【評定衆技能】 足軽教練",
+      "unique_tactic_detail": {
+        "name": "鬼小島",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "30%→55%",
+        "detail": "突撃 通常攻撃後、対象に兵刃ダメージ（ダメージ率304%）。この戦法が発動するたびに、発動率が5%減少（最大4回まで）",
+        "source": "固有戦法： 小島弥太郎"
+      },
+      "transferable_tactic_detail": {
+        "name": "剛毅果断",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "40%",
+        "detail": "能動 3ターンの間、自身の突撃戦法の与ダメージが17.5%→35%上昇、能動戦法の被ダメージが10%→20%低下（1ターン後に再発動可能）",
+        "source": "伝授戦法： 甘利虎泰 / 小島弥太郎"
+      },
+      "council_skill_detail": {
+        "name": "足軽教練",
+        "benefit": "軍学修習中、足軽委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、弓兵委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "一条信龍",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747935",
+      "image_url": "https://img.game8.jp/12055689/fc65f0be8d27018794a7caacfb36e06e.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "不屈の精神",
+      "transferable_tactic": "甲斐弓騎兵",
+      "council_skill": "石材増産",
+      "description": "【コスト】5　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 不屈の精神 【伝授戦法】 甲斐弓騎兵 【評定衆技能】 石材増産",
+      "unique_tactic_detail": {
+        "name": "不屈の精神",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "35%",
+        "detail": "能動 2ターンの間、自身は反撃を獲得し、通常攻撃を受けると攻撃者に1回反撃（ダメージ率74%→148%）を付与。反撃の持続期間中に通常攻撃を2回受けると武勇が18→36増加（重ねがけ可能、戦闘終了まで持続）",
+        "source": "固有戦法： 一条信龍"
+      },
+      "transferable_tactic_detail": {
+        "name": "甲斐弓騎兵",
+        "rank": "S",
+        "troop_types": "弓兵",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 弓兵が、精妙な射術を誇る甲斐弓騎兵に進化。部隊行軍速度が5%→50%増加。自軍全体の配置順が一番目となる能動戦法発動率4%→8%上昇（準備が必要な戦法は6%→12%上昇）。一条信龍が装備時、発動率増加値は速度依存",
+        "source": "伝授戦法： 一条信龍"
+      },
+      "council_skill_detail": {
+        "name": "石材増産",
+        "benefit": "施設の石材産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "岡部元信",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747937",
+      "image_url": "https://img.game8.jp/12055663/08969ce6e76aed602f03ad651362a0a0.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "洞察反撃",
+      "transferable_tactic": "気炎万丈",
+      "council_skill": "市利偏重",
+      "description": "【コスト】5　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 洞察反撃 【伝授戦法】 気炎万丈 【評定衆技能】 市利偏重",
+      "unique_tactic_detail": {
+        "name": "洞察反撃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、自軍複数（2名）に洞察を付与。自身は2ターンの間、次に通常攻撃を受けた際に攻撃者に計略ダメージ（ダメージ率152%→304%、知略依存）",
+        "source": "固有戦法： 岡部元信"
+      },
+      "transferable_tactic_detail": {
+        "name": "気炎万丈",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 3ターン目まで、敵軍複数（2名）に封撃を付与し、毎ターン35%→70%の確率で通常攻撃不可（毎ターン発動確率が7%→14%減少）",
+        "source": "伝授戦法： 尼子晴久 / 岡部元信"
+      },
+      "council_skill_detail": {
+        "name": "市利偏重",
+        "benefit": "施設の銀銭産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の木材、鉄鉱、石材、兵糧産出量が3％低下"
+      }
+    },
+    {
+      "name": "原虎胤",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747939",
+      "image_url": "https://img.game8.jp/12055690/fa9d3892321e5ea31074a55a40e6c10f.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "夜叉美濃",
+      "transferable_tactic": "罵詈雑言",
+      "council_skill": "石材増産",
+      "description": "【コスト】5　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 夜叉美濃 【伝授戦法】 罵詈雑言 【評定衆技能】 石材増産",
+      "unique_tactic_detail": {
+        "name": "夜叉美濃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身の被ダメージが17.5%→35%低下（敵軍が騎兵・鉄砲部隊の場合は25%→50%）",
+        "source": "固有戦法： 原虎胤"
+      },
+      "transferable_tactic_detail": {
+        "name": "罵詈雑言",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "100%",
+        "detail": "指揮 3ターン目まで、敵軍複数（2～3名）に挑発（毎ターン45%→90%の確率で強制的に自身を通常攻撃の対象に固定）を付与。さらに自身が受ける通常攻撃と突撃戦法のダメージが25%→50%低下。自身が大将の場合、挑発は付与しない",
+        "source": "伝授戦法： 佐久間信盛 / 原虎胤"
+      },
+      "council_skill_detail": {
+        "name": "石材増産",
+        "benefit": "施設の石材産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "稲葉一鉄",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747942",
+      "image_url": "https://img.game8.jp/12055701/b9a8b32e92fca31b7c7235bb71391154.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "一徹の意志",
+      "transferable_tactic": "陣形崩し",
+      "council_skill": "鉄鉱増産",
+      "description": "【コスト】5　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 一徹の意志 【伝授戦法】 陣形崩し 【評定衆技能】 鉄鉱増産",
+      "unique_tactic_detail": {
+        "name": "一徹の意志",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "20%→40%",
+        "detail": "能動 2ターンの間、自身の統率が150上昇し、武勇が最も高い敵軍単体に挑発・牽制を付与し、強制的に敵軍の通常攻撃と戦法の発動対象を自身に固定。自身が弱体化効果中の場合、追加で2ターンの間2回分の鉄壁を獲得（1ターン後に再発動可能）",
+        "source": "固有戦法： 稲葉一鉄"
+      },
+      "transferable_tactic_detail": {
+        "name": "陣形崩し",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、敵軍複数（2～3名）の統率と知略が24→48（武勇依存）減少、さらに対象に兵刃ダメージ（ダメージ率51%→102%）",
+        "source": "伝授戦法： 森可成 / 稲葉一鉄"
+      },
+      "council_skill_detail": {
+        "name": "鉄鉱増産",
+        "benefit": "施設の鉄鉱産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "森可成",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747945",
+      "image_url": "https://img.game8.jp/12055647/f166c1b1cb8fecee66fe7d367507c340.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "攻めの三左",
+      "transferable_tactic": "陣形崩し",
+      "council_skill": "兵器強化",
+      "description": "【コスト】5　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 攻めの三左 【伝授戦法】 陣形崩し 【評定衆技能】 兵器強化",
+      "unique_tactic_detail": {
+        "name": "攻めの三左",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率71%→142%）。3ターンの間、対象に潰走（ダメージ率36%→72%）を付与。対象がすでに潰走状態中の場合、自身の兵力を回復（回復率35%→70%、武勇依存）",
+        "source": "固有戦法： 森可成"
+      },
+      "transferable_tactic_detail": {
+        "name": "陣形崩し",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、敵軍複数（2～3名）の統率と知略が24→48（武勇依存）減少、さらに対象に兵刃ダメージ（ダメージ率51%→102%）",
+        "source": "伝授戦法： 森可成 / 稲葉一鉄"
+      },
+      "council_skill_detail": {
+        "name": "兵器強化",
+        "benefit": "指定部隊の兵器レベルがLv.5より高い場合、レベル差1につき与ダメージが0.2％→0.4％上昇（魅力依存）",
+        "drawback": "指定部隊の兵器レベルがLv.5以下の場合、レベル差1につき与ダメージが0.4％低下"
+      }
+    },
+    {
+      "name": "蜂須賀小六",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747948",
+      "image_url": "https://img.game8.jp/12055656/c0fa5e3d386d0e18e10bbe876d297afd.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "楼岸一番",
+      "transferable_tactic": "嚢沙之計",
+      "council_skill": "弓兵教練",
+      "description": "【コスト】5　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 楼岸一番 【伝授戦法】 嚢沙之計 【評定衆技能】 弓兵教練",
+      "unique_tactic_detail": {
+        "name": "楼岸一番",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "突撃 通常攻撃後、攻撃対象にダメージ（ダメージ率84%→168%、ダメージタイプは武勇と知略の高い方）。1ターンの間、対象の与ダメージが15%→30%低下（武勇と知略の高い方に依存）。対象の兵力が50%超過の場合、与ダメージ低下効果の持続時間は2ターンに増加",
+        "source": "固有戦法： 蜂須賀小六"
+      },
+      "transferable_tactic_detail": {
+        "name": "嚢沙之計",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "30%",
+        "detail": "能動 2ターンの間、敵軍複数（2名）に水攻めを付与し、毎ターン持続ダメージ（ダメージ率51%→102%、知略依存）を与え、さらに対象の計略被ダメージが15%→30%上昇",
+        "source": "伝授戦法： 高力清長 / 蜂須賀小六"
+      },
+      "council_skill_detail": {
+        "name": "弓兵教練",
+        "benefit": "軍学修習中、弓兵委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、足軽委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "高力清長",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747951",
+      "image_url": "https://img.game8.jp/12055640/bf7a48f43213aaf2a09285f80958e3d2.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "仏の高力",
+      "transferable_tactic": "嚢沙之計",
+      "council_skill": "木材増産",
+      "description": "【コスト】5　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 仏の高力 【伝授戦法】 嚢沙之計 【評定衆技能】 木材増産",
+      "unique_tactic_detail": {
+        "name": "仏の高力",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "友軍単体",
+        "activation": "40%",
+        "detail": "能動 2ターンの間、友軍単体の能動戦法の発動率が4.5%→9%（統率依存）増加。対象が次に能動戦法を発動した後、統率が15%→30%増加",
+        "source": "固有戦法： 高力清長"
+      },
+      "transferable_tactic_detail": {
+        "name": "嚢沙之計",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "30%",
+        "detail": "能動 2ターンの間、敵軍複数（2名）に水攻めを付与し、毎ターン持続ダメージ（ダメージ率51%→102%、知略依存）を与え、さらに対象の計略被ダメージが15%→30%上昇",
+        "source": "伝授戦法： 高力清長 / 蜂須賀小六"
+      },
+      "council_skill_detail": {
+        "name": "木材増産",
+        "benefit": "施設の木材産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "尼子晴久",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747953",
+      "image_url": "https://img.game8.jp/12055677/530c110bc0111d57989b5e6825032a03.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "尼子",
+      "gender": "男",
+      "unique_tactic": "綱紀粛正",
+      "transferable_tactic": "気炎万丈",
+      "council_skill": "軍備倹約",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 尼子 【固有戦法】 綱紀粛正 【伝授戦法】 気炎万丈 【評定衆技能】 軍備倹約",
+      "unique_tactic_detail": {
+        "name": "綱紀粛正",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "25%→50%",
+        "detail": "能動 1ターンの準備後、敵軍単体に計略ダメージ（ダメージ率196%、知略依存）。2ターンの間、対象に威圧を付与 大将技 ：発動時に対象が威圧状態中の場合、代わりに2ターンの間、対象に疲弊を付与",
+        "source": "固有戦法： 尼子晴久"
+      },
+      "transferable_tactic_detail": {
+        "name": "気炎万丈",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 3ターン目まで、敵軍複数（2名）に封撃を付与し、毎ターン35%→70%の確率で通常攻撃不可（毎ターン発動確率が7%→14%減少）",
+        "source": "伝授戦法： 尼子晴久 / 岡部元信"
+      },
+      "council_skill_detail": {
+        "name": "軍備倹約",
+        "benefit": "軍事施設昇格時、即時完了に必要な小判が0.3→0.6減少（政務依存）",
+        "drawback": "軍事施設昇格時の所要時間が5％上昇"
+      }
+    },
+    {
+      "name": "南部晴政",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747957",
+      "image_url": "https://img.game8.jp/12055625/97ac779e174678dee25b35d5c0746290.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "南部",
+      "gender": "男",
+      "unique_tactic": "満ちゆく月",
+      "transferable_tactic": "百戦錬磨",
+      "council_skill": "軍事重視",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 南部 【固有戦法】 満ちゆく月 【伝授戦法】 百戦錬磨 【評定衆技能】 軍事重視",
+      "unique_tactic_detail": {
+        "name": "満ちゆく月",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "25%→50%",
+        "detail": "能動 1ターンの準備後、4ターンの間、敵軍単体に潰走（ダメージ率108%、潰走を持っていない敵軍単体が優先）を付与。さらに2ターンの間、潰走状態中の敵軍の次2回の与ダメージが40%低下 大将技 ：潰走の持続時間が戦闘終了までに増加",
+        "source": "固有戦法： 南部晴政"
+      },
+      "transferable_tactic_detail": {
+        "name": "百戦錬磨",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身の武勇・知略・統率・速度が21→42増加",
+        "source": "伝授戦法： 南部晴政 / 太田資正"
+      },
+      "council_skill_detail": {
+        "name": "軍事重視",
+        "benefit": "軍事施設昇格時の所要時間が20％→40％低下（政務依存）",
+        "drawback": "調馬の資源消費が5％上昇"
+      }
+    },
+    {
+      "name": "十河一存",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747959",
+      "image_url": "https://img.game8.jp/12055684/4d41682caec15f3dab72f9fdeaf3181c.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "三好",
+      "gender": "男",
+      "unique_tactic": "鬼十河",
+      "transferable_tactic": "前後挟撃",
+      "council_skill": "足軽教練",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 三好 【固有戦法】 鬼十河 【伝授戦法】 前後挟撃 【評定衆技能】 足軽教練",
+      "unique_tactic_detail": {
+        "name": "鬼十河",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "20%→35%",
+        "detail": "突撃 通常攻撃後、対象に兵刃ダメージ（ダメージ率188%）。さらに1ターンの間威圧を付与",
+        "source": "固有戦法： 十河一存"
+      },
+      "transferable_tactic_detail": {
+        "name": "前後挟撃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "25%→35%",
+        "detail": "能動 1ターンの間、自身と友軍単体は連撃（1ターンに2回通常攻撃）を獲得",
+        "source": "伝授戦法： 十河一存 / 成田甲斐"
+      },
+      "council_skill_detail": {
+        "name": "足軽教練",
+        "benefit": "軍学修習中、足軽委任修習に必要な資源が5％→10％低下（政務依存）",
+        "drawback": "軍学修習中、弓兵委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "津田算長",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747962",
+      "image_url": "https://img.game8.jp/12055703/7dae9af52036adf3d8e81da7d867d6e2.webp/original",
+      "rarity": "★★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "国衆",
+      "gender": "男",
+      "unique_tactic": "津田流砲術",
+      "transferable_tactic": "鉄砲僧兵",
+      "council_skill": "鉄砲補給",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 国衆 【固有戦法】 津田流砲術 【伝授戦法】 鉄砲僧兵 【評定衆技能】 鉄砲補給",
+      "unique_tactic_detail": {
+        "name": "津田流砲術",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "30%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率94%→188%、知略依存）。2ターンの間、対象にランダムで以下の状態の1つを付与：封撃、無策、威圧、混乱",
+        "source": "固有戦法： 津田算長"
+      },
+      "transferable_tactic_detail": {
+        "name": "鉄砲僧兵",
+        "rank": "S",
+        "troop_types": "鉄砲",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "兵種 鉄砲が、破邪顕正の鉄砲僧兵に進化。自軍全体の統率と知略が6→12増加し、1/2/5/6ターン目に休養（毎ターン兵力を1回回復、回復率24%→48%、統率依存）を獲得。津田算長が装備時、属性増加値は統率依存でさらに増加",
+        "source": "伝授戦法： 津田算長"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲補給",
+        "benefit": "鉄砲櫓の戦功獲得上限が25％→50％上昇（政務依存）",
+        "drawback": "鉄砲櫓の木材、鉄鉱、石材消費量が2％上昇"
+      }
+    },
+    {
+      "name": "里見義堯",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/763197",
+      "image_url": "https://img.game8.jp/12357849/bb3dd4f91fbf3489b90c162abf609ecd.webp/original",
+      "rarity": "★★★★★",
+      "cost": "4",
+      "faction": "群雄",
+      "clan": "里見",
+      "gender": "男",
+      "unique_tactic": "仁者の沈勇",
+      "transferable_tactic": "境目奮戦",
+      "council_skill": "成果加俸",
+      "description": "【コスト】4　【性別】男 【勢力】 群雄\n　【家門】 里見 【固有戦法】 仁者の沈勇 【伝授戦法】 境目奮戦 【評定衆技能】 成果加俸",
+      "unique_tactic_detail": {
+        "name": "仁者の沈勇",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "55%",
+        "detail": "突撃 通常攻撃後、敵軍単体に計略ダメージ（ダメージ率92%→184%、知略依存）を与え、70%の確率で友軍単体にも同時に同対象への計略ダメージ（ダメージ率77%→154%、その友軍の知略依存）を与える。 大将技 ：友軍がダメージを与える確率が20%上昇",
+        "source": "固有戦法： 里見義堯"
+      },
+      "transferable_tactic_detail": {
+        "name": "境目奮戦",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、兵力の最も低い敵軍単体に計略ダメージ（ダメージ率130%→260%、知略依存）を与え、その敵軍が受ける回復効果を15%→30%低下させる。1ターン持続",
+        "source": "伝授戦法： 相馬盛胤 / 里見義堯"
+      },
+      "council_skill_detail": {
+        "name": "成果加俸",
+        "benefit": "配備した部隊にLv.40を上回る武将1名いるごとに、戦闘による経験値獲得量が0.4％→0.8％上昇（魅力依存）",
+        "drawback": "1つの部隊にLv.35未満の武将が1名いるごとに、戦闘による経験値獲得量が1％低下"
+      }
+    },
+    {
+      "name": "河田長親",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747929",
+      "image_url": "https://img.game8.jp/12055683/ba879ab759a8ce10148f693405d38d14.webp/original",
+      "rarity": "★★★★★",
+      "cost": "4",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "先制攻撃",
+      "transferable_tactic": "金鼓連天",
+      "council_skill": "内政倹約",
+      "description": "【コスト】4　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 先制攻撃 【伝授戦法】 金鼓連天 【評定衆技能】 内政倹約",
+      "unique_tactic_detail": {
+        "name": "先制攻撃",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、敵軍複数（2～3名）に計略ダメージ（ダメージ率66%→132%、知略依存）を与え、2ターンの間対象の能動戦法の被ダメージが15%→30%上昇",
+        "source": "固有戦法： 河田長親"
+      },
+      "transferable_tactic_detail": {
+        "name": "金鼓連天",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "40%",
+        "detail": "能動 3ターンの間、自身の能動戦法与ダメージが24%→48%上昇、突撃戦法被ダメージが12.5%→25%低下（1ターン後に再発動可能）",
+        "source": "伝授戦法： 浅井長政 / 河田長親"
+      },
+      "council_skill_detail": {
+        "name": "内政倹約",
+        "benefit": "内政施設昇格時、即時完了に必要な小判が0.3→0.6減少（政務依存）",
+        "drawback": "内政施設昇格時の所要時間が5％上昇"
+      }
+    },
+    {
+      "name": "諏訪姫",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747940",
+      "image_url": "https://img.game8.jp/12055695/7c92a272bf447015c39048f0f4f15af1.webp/original",
+      "rarity": "★★★★★",
+      "cost": "4",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "女",
+      "unique_tactic": "諏訪の光",
+      "transferable_tactic": "戦意崩壊",
+      "council_skill": "兵糧増産",
+      "description": "【コスト】4　【性別】女 【勢力】 武田\n　【家門】 武田 【固有戦法】 諏訪の光 【伝授戦法】 戦意崩壊 【評定衆技能】 兵糧増産",
+      "unique_tactic_detail": {
+        "name": "諏訪の光",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "20%→45%",
+        "detail": "能動 自軍複数（2名）の弱体化効果を2個浄化し、2ターンの間、対象の武勇と統率が36増加",
+        "source": "固有戦法： 諏訪姫"
+      },
+      "transferable_tactic_detail": {
+        "name": "戦意崩壊",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "20%→35%",
+        "detail": "突撃 通常攻撃後、2ターンの間、対象の統率と知略が65低下し、自軍大将に2回分の鉄壁（被ダメージ無効）を付与。自身が大将の場合は1回分の鉄壁しか獲得不可",
+        "source": "伝授戦法： 諏訪姫 / 仙桃院"
+      },
+      "council_skill_detail": {
+        "name": "兵糧増産",
+        "benefit": "施設の兵糧産出量が20％→40％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が3％低下"
+      }
+    },
+    {
+      "name": "可児才蔵",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747949",
+      "image_url": "https://img.game8.jp/12055693/ce2edf2956fedba58a14706580be44ba.webp/original",
+      "rarity": "★★★★★",
+      "cost": "4",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "笹の才蔵",
+      "transferable_tactic": "死中求活",
+      "council_skill": "軍備倹約",
+      "description": "【コスト】4　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 笹の才蔵 【伝授戦法】 死中求活 【評定衆技能】 軍備倹約",
+      "unique_tactic_detail": {
+        "name": "笹の才蔵",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "30%",
+        "detail": "能動 1ターンの準備後、敵軍単体に大量の兵刃ダメージ（ダメージ率261%→522%）を与え、3ターンの間回復不可（兵力を回復不能）を付与。この攻撃で対象を倒した場合、次のターンにこの戦法の発動確率が100%増加し、準備ターンは不要",
+        "source": "固有戦法： 可児才蔵"
+      },
+      "transferable_tactic_detail": {
+        "name": "死中求活",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は兵刃ダメージを受けるたびに武勇が2.5→5増加（最大10回まで重ねがけ可能）。5ターン目に、敵軍全体に兵刃ダメージ（ダメージ率62.5%→125%、1回重ねがけにつきダメージが追加で6%→12%増加）",
+        "source": "伝授戦法： 可児才蔵 / 明智秀満"
+      },
+      "council_skill_detail": {
+        "name": "軍備倹約",
+        "benefit": "軍事施設昇格時、即時完了に必要な小判が0.3→0.6減少（政務依存）",
+        "drawback": "軍事施設昇格時の所要時間が5％上昇"
+      }
+    },
+    {
+      "name": "朝倉義景",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747954",
+      "image_url": "https://img.game8.jp/12055675/38ac5a2d2198ee3aebd1363b57777868.webp/original",
+      "rarity": "★★★★★",
+      "cost": "4",
+      "faction": "群雄",
+      "clan": "朝倉",
+      "gender": "男",
+      "unique_tactic": "落花啼鳥",
+      "transferable_tactic": "按甲休兵",
+      "council_skill": "年功加俸",
+      "description": "【コスト】4　【性別】男 【勢力】 群雄\n　【家門】 朝倉 【固有戦法】 落花啼鳥 【伝授戦法】 按甲休兵 【評定衆技能】 年功加俸",
+      "unique_tactic_detail": {
+        "name": "落花啼鳥",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "友軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、友軍複数（2名）が先攻を獲得し、能動戦法与ダメージが37.5%→75%上昇する（2ターン持続） 大将技 ：与ダメージ基本増加量が42.5%→85%に上昇する",
+        "source": "固有戦法： 朝倉義景"
+      },
+      "transferable_tactic_detail": {
+        "name": "按甲休兵",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は休養（毎ターン兵力回復、回復率70%→140%）を獲得",
+        "source": "伝授戦法： 朝倉義景 / 千坂景親"
+      },
+      "council_skill_detail": {
+        "name": "年功加俸",
+        "benefit": "評定衆の任命期間が7日以上の場合、任命中の経験値獲得量が4％→8％上昇（政務依存）",
+        "drawback": "評定衆の任命期間が7日未満の場合、任命中の経験値獲得量が3％低下"
+      }
+    },
+    {
+      "name": "九戸政実",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747967",
+      "image_url": "https://img.game8.jp/12059104/32b8d546134d9cdc97d43ff19e5f5e92.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "南部",
+      "gender": "男",
+      "unique_tactic": "一念乱志",
+      "transferable_tactic": "一念乱志",
+      "council_skill": "軍備倹約",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 南部 【固有戦法】 一念乱志 【伝授戦法】 一念乱志 【評定衆技能】 軍備倹約",
+      "unique_tactic_detail": {
+        "name": "一念乱志",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "受動 3ターン目以降、自身は35%→70%の確率で敵軍単体に兵刃ダメージ（ダメージ率89%→178%）を与え、35%の確率で武勇が最も高い友軍単体も同じ対象に兵刃ダメージ（ダメージ率89%→178%）。自身の発動確率は毎ターン2.5%→5%減少",
+        "source": "固有戦法： 九戸政実"
+      },
+      "transferable_tactic_detail": {
+        "name": "一念乱志",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "受動 3ターン目以降、自身は35%→70%の確率で敵軍単体に兵刃ダメージ（ダメージ率89%→178%）を与え、35%の確率で武勇が最も高い友軍単体も同じ対象に兵刃ダメージ（ダメージ率89%→178%）。自身の発動確率は毎ターン2.5%→5%減少",
+        "source": "伝授戦法： 九戸政実"
+      },
+      "council_skill_detail": {
+        "name": "軍備倹約",
+        "benefit": "軍事施設昇格時、即時完了に必要な小判が0.15→0.3減少（政務依存）",
+        "drawback": "軍事施設昇格時の所要時間が4％上昇"
+      }
+    },
+    {
+      "name": "鈴木重朝",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747971",
+      "image_url": "https://img.game8.jp/12059143/c37dc76965a7ff5f6b9e9bc4fc3608c5.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "鈴木",
+      "gender": "男",
+      "unique_tactic": "鉄砲猛撃",
+      "transferable_tactic": "鉄砲猛撃",
+      "council_skill": "鉄砲教練",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 鈴木 【固有戦法】 鉄砲猛撃 【伝授戦法】 鉄砲猛撃 【評定衆技能】 鉄砲教練",
+      "unique_tactic_detail": {
+        "name": "鉄砲猛撃",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 敵軍複数（2名）に計略ダメージ（ダメージ率51%→102%、知略依存）。2ターンの間、対象の与ダメージが6%→12%低下",
+        "source": "固有戦法： 鈴木重朝"
+      },
+      "transferable_tactic_detail": {
+        "name": "鉄砲猛撃",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 敵軍複数（2名）に計略ダメージ（ダメージ率51%→102%、知略依存）。2ターンの間、対象の与ダメージが6%→12%低下",
+        "source": "伝授戦法： 鈴木重朝"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲教練",
+        "benefit": "軍学修習中、鉄砲委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、騎馬委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "斎藤利三",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747981",
+      "image_url": "https://img.game8.jp/12059297/678b6fc4fd9fba522fbc41661794ba5a.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "全力戦闘",
+      "transferable_tactic": "全力戦闘",
+      "council_skill": "石産拡張",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 全力戦闘 【伝授戦法】 全力戦闘 【評定衆技能】 石産拡張",
+      "unique_tactic_detail": {
+        "name": "全力戦闘",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 5ターン目以降、戦闘終了まで自身が35%→70%の連撃（1ターンに2回通常攻撃）を獲得",
+        "source": "固有戦法： 斎藤利三"
+      },
+      "transferable_tactic_detail": {
+        "name": "全力戦闘",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 5ターン目以降、戦闘終了まで自身が35%→70%の連撃（1ターンに2回通常攻撃）を獲得",
+        "source": "伝授戦法： 斎藤利三"
+      },
+      "council_skill_detail": {
+        "name": "石産拡張",
+        "benefit": "石材土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "石材の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "福留親政",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747983",
+      "image_url": "https://img.game8.jp/12059319/62ad415155a451b9c54b25d7f8420d54.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "長宗我部",
+      "gender": "男",
+      "unique_tactic": "荒切",
+      "transferable_tactic": "奮戦",
+      "council_skill": "農産拡張",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 長宗我部 【固有戦法】 荒切 【伝授戦法】 奮戦 【評定衆技能】 農産拡張",
+      "unique_tactic_detail": {
+        "name": "荒切",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "20%→35%",
+        "detail": "突撃 通常攻撃後、1ターンの間連撃（1ターンに2回通常攻撃）を獲得",
+        "source": "固有戦法： 福留親政"
+      },
+      "transferable_tactic_detail": {
+        "name": "奮戦",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "35%",
+        "detail": "能動 自身に連撃（1ターンに2回通常攻撃）を付与するが、1ターンの間与ダメージが15%低下",
+        "source": "伝授戦法： 太田牛一 / 福留親政"
+      },
+      "council_skill_detail": {
+        "name": "農産拡張",
+        "benefit": "兵糧土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "兵糧の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "鬼庭左月斎",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747985",
+      "image_url": "https://img.game8.jp/12059350/72a6b1ba6b30701b2771e44a8451ee79.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "伊達",
+      "gender": "男",
+      "unique_tactic": "生死一顧",
+      "transferable_tactic": "生死一顧",
+      "council_skill": "軍事重視",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 伊達 【固有戦法】 生死一顧 【伝授戦法】 生死一顧 【評定衆技能】 軍事重視",
+      "unique_tactic_detail": {
+        "name": "生死一顧",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍全体（3名）",
+        "activation": "50%",
+        "detail": "能動 敵軍全体に計略ダメージ（ダメージ率28%→56%、知略依存）を与え、1ターンの間挑発（強制的に自身を通常攻撃の対象に固定）を付与",
+        "source": "固有戦法： 鬼庭左月斎"
+      },
+      "transferable_tactic_detail": {
+        "name": "生死一顧",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍全体（3名）",
+        "activation": "50%",
+        "detail": "能動 敵軍全体に計略ダメージ（ダメージ率28%→56%、知略依存）を与え、1ターンの間挑発（強制的に自身を通常攻撃の対象に固定）を付与",
+        "source": "伝授戦法： 鬼庭左月斎"
+      },
+      "council_skill_detail": {
+        "name": "軍事重視",
+        "benefit": "軍事施設昇格時の所要時間が10％→20％低下（政務依存）",
+        "drawback": "調馬の資源消費が4％上昇"
+      }
+    },
+    {
+      "name": "下方貞清",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747988",
+      "image_url": "https://img.game8.jp/12059349/244ffb84eb9464dd8235675d8b3a3372.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "先陣の勇",
+      "transferable_tactic": "先陣の勇",
+      "council_skill": "木産拡張",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 先陣の勇 【伝授戦法】 先陣の勇 【評定衆技能】 木産拡張",
+      "unique_tactic_detail": {
+        "name": "先陣の勇",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率77%→154%）を与え、17.5%→35%の確率（速度差依存）で1ターンの間威圧（行動不能）を付与。2ターンの間、自身の速度が10→20増加",
+        "source": "固有戦法： 下方貞清"
+      },
+      "transferable_tactic_detail": {
+        "name": "先陣の勇",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率77%→154%）を与え、17.5%→35%の確率（速度差依存）で1ターンの間威圧（行動不能）を付与。2ターンの間、自身の速度が10→20増加",
+        "source": "伝授戦法： 下方貞清"
+      },
+      "council_skill_detail": {
+        "name": "木産拡張",
+        "benefit": "木材土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "木材の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "毛利輝元",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747993",
+      "image_url": "https://img.game8.jp/12059309/e76d1af1c16baae50f3e5c4b4452d37d.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "後方支援",
+      "transferable_tactic": "祓除",
+      "council_skill": "年功加俸",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 後方支援 【伝授戦法】 祓除 【評定衆技能】 年功加俸",
+      "unique_tactic_detail": {
+        "name": "後方支援",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、自身の能動戦法の発動確率が5%→10%減少するが、友軍複数（2名）に9%→18%の与ダメージ上昇効果を付与。この効果は毎ターン20%→40%の確率で2%減少",
+        "source": "固有戦法： 毛利輝元"
+      },
+      "transferable_tactic_detail": {
+        "name": "祓除",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、自軍複数（2名）の武勇・知略・速度が12→24増加、弱体化効果を2個浄化",
+        "source": "伝授戦法： 毛利輝元"
+      },
+      "council_skill_detail": {
+        "name": "年功加俸",
+        "benefit": "評定衆の任命期間が7日以上の場合、任命中の経験値獲得量が2％→4％上昇（政務依存）",
+        "drawback": "評定衆の任命期間が7日未満の場合、任命中の経験値獲得量が2.5％低下"
+      }
+    },
+    {
+      "name": "遠藤直経",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747996",
+      "image_url": "https://img.game8.jp/12059310/01d7fadbd9eba89556aece3f09d9a435.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "群雄",
+      "clan": "浅井",
+      "gender": "男",
+      "unique_tactic": "闇討ち",
+      "transferable_tactic": "闇討ち",
+      "council_skill": "石産拡張",
+      "description": "【コスト】6　【性別】男 【勢力】 群雄\n　【家門】 浅井 【固有戦法】 闇討ち 【伝授戦法】 闇討ち 【評定衆技能】 石産拡張",
+      "unique_tactic_detail": {
+        "name": "闇討ち",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍大将",
+        "activation": "45%",
+        "detail": "能動 1ターンの準備後、敵軍大将に兵刃ダメージ（ダメージ率166%→332%）",
+        "source": "固有戦法： 遠藤直経"
+      },
+      "transferable_tactic_detail": {
+        "name": "闇討ち",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍大将",
+        "activation": "45%",
+        "detail": "能動 1ターンの準備後、敵軍大将に兵刃ダメージ（ダメージ率166%→332%）",
+        "source": "伝授戦法： 遠藤直経"
+      },
+      "council_skill_detail": {
+        "name": "石産拡張",
+        "benefit": "石材土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "石材の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "太田牛一",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747998",
+      "image_url": "https://img.game8.jp/12059312/6c232c89149bdcea2bc2037b2f49d04d.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "覇王の右筆",
+      "transferable_tactic": "奮戦",
+      "council_skill": "弓兵教練",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 覇王の右筆 【伝授戦法】 奮戦 【評定衆技能】 弓兵教練",
+      "unique_tactic_detail": {
+        "name": "覇王の右筆",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "指揮 友軍複数（2名）が通常攻撃を行った後、自身は20%→40%の確率でその対象に兵刃ダメージ（ダメージ率60%→120%）",
+        "source": "固有戦法： 太田牛一"
+      },
+      "transferable_tactic_detail": {
+        "name": "奮戦",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "35%",
+        "detail": "能動 自身に連撃（1ターンに2回通常攻撃）を付与するが、1ターンの間与ダメージが15%低下",
+        "source": "伝授戦法： 太田牛一 / 福留親政"
+      },
+      "council_skill_detail": {
+        "name": "弓兵教練",
+        "benefit": "軍学修習中、弓兵委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、足軽委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "池田輝政",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748002",
+      "image_url": "https://img.game8.jp/12059336/a83a47fdd30113e67c5a4ff2b59252c6.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "岐阜侍従",
+      "transferable_tactic": "岐阜侍従",
+      "council_skill": "市利偏重",
+      "description": "【コスト】6　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 岐阜侍従 【伝授戦法】 岐阜侍従 【評定衆技能】 市利偏重",
+      "unique_tactic_detail": {
+        "name": "岐阜侍従",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率74%→148%）と計略ダメージ（ダメージ率74%→148%、知略依存）。自身の武勇と知略ともに対象より高い場合は強化効果を獲得し、ダメージ率が85%→170%に増加",
+        "source": "固有戦法： 池田輝政"
+      },
+      "transferable_tactic_detail": {
+        "name": "岐阜侍従",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率74%→148%）と計略ダメージ（ダメージ率74%→148%、知略依存）。自身の武勇と知略ともに対象より高い場合は強化効果を獲得し、ダメージ率が85%→170%に増加",
+        "source": "伝授戦法： 池田輝政"
+      },
+      "council_skill_detail": {
+        "name": "市利偏重",
+        "benefit": "施設の銀銭産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の木材、鉄鉱、石材、兵糧産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "仙石権兵衛",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748003",
+      "image_url": "https://img.game8.jp/12059342/5c31a9841d80f6e2dad6310c80eab3e0.webp/original",
+      "rarity": "★★★★",
+      "cost": "6",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "鈴鳴り",
+      "transferable_tactic": "奪気",
+      "council_skill": "年功加俸",
+      "description": "【コスト】6　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 鈴鳴り 【伝授戦法】 奪気 【評定衆技能】 年功加俸",
+      "unique_tactic_detail": {
+        "name": "鈴鳴り",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "100%",
+        "detail": "受動 自身は毎ターン33%→66%の確率で敵軍単体に兵刃ダメージ（ダメージ率105%→210%）。自軍の兵力が50%以下かつ敵軍より低い場合、発動確率は元の50%に低下",
+        "source": "固有戦法： 仙石権兵衛"
+      },
+      "transferable_tactic_detail": {
+        "name": "奪気",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "45%",
+        "detail": "能動 敵軍複数（2名）の強化効果を2個「強化解除」し、3ターンの間、自身の知略が14→28上昇",
+        "source": "伝授戦法： 仙石権兵衛"
+      },
+      "council_skill_detail": {
+        "name": "年功加俸",
+        "benefit": "評定衆の任命期間が7日以上の場合、任命中の経験値獲得量が2％→4％上昇（政務依存）",
+        "drawback": "評定衆の任命期間が7日未満の場合、任命中の経験値獲得量が2.5％低下"
+      }
+    },
+    {
+      "name": "保科正俊",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747966",
+      "image_url": "https://img.game8.jp/12059149/632067efd512dd45fc01fea2cb532804.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "槍弾正",
+      "transferable_tactic": "槍弾正",
+      "council_skill": "足軽教練",
+      "description": "【コスト】5　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 槍弾正 【伝授戦法】 槍弾正 【評定衆技能】 足軽教練",
+      "unique_tactic_detail": {
+        "name": "槍弾正",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率86%→172%）。1ターンの間、無策（能動戦法発動不可）を付与",
+        "source": "固有戦法： 保科正俊"
+      },
+      "transferable_tactic_detail": {
+        "name": "槍弾正",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率86%→172%）。1ターンの間、無策（能動戦法発動不可）を付与",
+        "source": "伝授戦法： 保科正俊"
+      },
+      "council_skill_detail": {
+        "name": "足軽教練",
+        "benefit": "軍学修習中、足軽委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、弓兵委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "氏家卜全",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747970",
+      "image_url": "https://img.game8.jp/12059107/c8c8851d0e08b1d7266053b3bfb09cad.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "殿軍奮戦",
+      "transferable_tactic": "殿軍奮戦",
+      "council_skill": "市利偏重",
+      "description": "【コスト】5　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 殿軍奮戦 【伝授戦法】 殿軍奮戦 【評定衆技能】 市利偏重",
+      "unique_tactic_detail": {
+        "name": "殿軍奮戦",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "30%→55%",
+        "detail": "能動 2ターンの間、敵軍単体に挑発（強制的に自身を通常攻撃の対象に固定）または牽制（強制的に自身を戦法の対象に固定）を付与。敵軍がすでに挑発または牽制状態中の場合、2ターンの間、追加で与ダメージが25%低下。両状態同時存在の場合、与ダメージ低下効果が45%に増加",
+        "source": "固有戦法： 氏家卜全"
+      },
+      "transferable_tactic_detail": {
+        "name": "殿軍奮戦",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "30%→55%",
+        "detail": "能動 2ターンの間、敵軍単体に挑発（強制的に自身を通常攻撃の対象に固定）または牽制（強制的に自身を戦法の対象に固定）を付与。敵軍がすでに挑発または牽制状態中の場合、2ターンの間、追加で与ダメージが25%低下。両状態同時存在の場合、与ダメージ低下効果が45%に増加",
+        "source": "伝授戦法： 氏家卜全"
+      },
+      "council_skill_detail": {
+        "name": "市利偏重",
+        "benefit": "施設の銀銭産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の木材、鉄鉱、石材、兵糧産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "坂井政尚",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747972",
+      "image_url": "https://img.game8.jp/12059160/2a6aa0ffa82e7a6d627e97174984a5d4.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "先制先登",
+      "transferable_tactic": "先制先登",
+      "council_skill": "鉄産拡張",
+      "description": "【コスト】5　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 先制先登 【伝授戦法】 先制先登 【評定衆技能】 鉄産拡張",
+      "unique_tactic_detail": {
+        "name": "先制先登",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 敵軍複数（2名）に兵刃ダメージ（ダメージ率61%→122%）を与え、1ターンの間、先攻（優先行動）を獲得",
+        "source": "固有戦法： 坂井政尚"
+      },
+      "transferable_tactic_detail": {
+        "name": "先制先登",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 敵軍複数（2名）に兵刃ダメージ（ダメージ率61%→122%）を与え、1ターンの間、先攻（優先行動）を獲得",
+        "source": "伝授戦法： 坂井政尚"
+      },
+      "council_skill_detail": {
+        "name": "鉄産拡張",
+        "benefit": "鉄鉱土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "鉄鉱の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "安藤守就",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747973",
+      "image_url": "https://img.game8.jp/12059138/b6c84e610ae7e8747fa7eaed52434e0b.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "一上一下",
+      "transferable_tactic": "一上一下",
+      "council_skill": "内政倹約",
+      "description": "【コスト】5　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 一上一下 【伝授戦法】 一上一下 【評定衆技能】 内政倹約",
+      "unique_tactic_detail": {
+        "name": "一上一下",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身の能動戦法の発動確率が6%→12%増加",
+        "source": "固有戦法： 安藤守就"
+      },
+      "transferable_tactic_detail": {
+        "name": "一上一下",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身の能動戦法の発動確率が6%→12%増加",
+        "source": "伝授戦法： 安藤守就"
+      },
+      "council_skill_detail": {
+        "name": "内政倹約",
+        "benefit": "内政施設昇格時、即時完了に必要な小判が0.15→0.3減少（政務依存）",
+        "drawback": "内政施設昇格時の所要時間が4％上昇"
+      }
+    },
+    {
+      "name": "佐久間盛政",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747974",
+      "image_url": "https://img.game8.jp/12059162/7fbcdad6b6ea3c2c5663f8563cf82795.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "鬼玄蕃",
+      "transferable_tactic": "鬼玄蕃",
+      "council_skill": "騎馬教練",
+      "description": "【コスト】5　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 鬼玄蕃 【伝授戦法】 鬼玄蕃 【評定衆技能】 騎馬教練",
+      "unique_tactic_detail": {
+        "name": "鬼玄蕃",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "30%",
+        "detail": "能動 自身の次に受けるダメージが20%→30%上昇する代わりに、2ターンの間、9%→18%の離反（兵刃ダメージを与えた際にダメージ量に応じて兵力回復）を獲得。さらに敵軍複数（2～3名）に兵刃ダメージ（ダメージ率59%→118%）",
+        "source": "固有戦法： 佐久間盛政"
+      },
+      "transferable_tactic_detail": {
+        "name": "鬼玄蕃",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2〜3名）",
+        "activation": "30%",
+        "detail": "能動 自身の次に受けるダメージが20%→30%上昇する代わりに、2ターンの間、9%→18%の離反（兵刃ダメージを与えた際にダメージ量に応じて兵力回復）を獲得。さらに敵軍複数（2～3名）に兵刃ダメージ（ダメージ率59%→118%）",
+        "source": "伝授戦法： 佐久間盛政"
+      },
+      "council_skill_detail": {
+        "name": "騎馬教練",
+        "benefit": "軍学修習中、騎馬委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、鉄砲委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "水原親憲",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747977",
+      "image_url": "https://img.game8.jp/12059174/0f092d3a3dec0c1a246a038d09ca4a47.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "援護射撃",
+      "transferable_tactic": "援護射撃",
+      "council_skill": "農産拡張",
+      "description": "【コスト】5　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 援護射撃 【伝授戦法】 援護射撃 【評定衆技能】 農産拡張",
+      "unique_tactic_detail": {
+        "name": "援護射撃",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "40%",
+        "detail": "能動 1ターンの間、友軍単体が15%→30%の回避を獲得。また、対象が初めてダメージを受けた際に自身が攻撃者に兵刃ダメージ（ダメージ率81%→162%、武勇と統率依存）",
+        "source": "固有戦法： 水原親憲"
+      },
+      "transferable_tactic_detail": {
+        "name": "援護射撃",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "40%",
+        "detail": "能動 1ターンの間、友軍単体が15%→30%の回避を獲得。また、対象が初めてダメージを受けた際に自身が攻撃者に兵刃ダメージ（ダメージ率81%→162%、武勇と統率依存）",
+        "source": "伝授戦法： 水原親憲"
+      },
+      "council_skill_detail": {
+        "name": "農産拡張",
+        "benefit": "兵糧土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "兵糧の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "鳥居元忠",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747978",
+      "image_url": "https://img.game8.jp/12059136/fa20a5ed8afd5858a12464f6a10e9642.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "捨て身の義",
+      "transferable_tactic": "百錬成鋼",
+      "council_skill": "城塁固守",
+      "description": "【コスト】5　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 捨て身の義 【伝授戦法】 百錬成鋼 【評定衆技能】 城塁固守",
+      "unique_tactic_detail": {
+        "name": "捨て身の義",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "指揮 戦闘中、自身の統率が20→40増加し、友軍複数の武勇と知略が10→20増加。自身の兵力が20%低下するたびに、再度効果を発動（効果は元の60%、重ねがけ可能）",
+        "source": "固有戦法： 鳥居元忠"
+      },
+      "transferable_tactic_detail": {
+        "name": "百錬成鋼",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 自身の武勇・知略・統率・速度が17.5→35増加",
+        "source": "伝授戦法： 鳥居元忠"
+      },
+      "council_skill_detail": {
+        "name": "城塁固守",
+        "benefit": "自身の本城、支城および一門の中立城で交戦した場合、部隊の被ダメージが1％→2％低下（魅力依存）",
+        "drawback": "資源地に駐屯している間、被ダメージが1％上昇"
+      }
+    },
+    {
+      "name": "岩城親隆",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747982",
+      "image_url": "https://img.game8.jp/12059227/6598d1a95c68f789624a5db352194756.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "伊達",
+      "gender": "男",
+      "unique_tactic": "懐柔",
+      "transferable_tactic": "休養",
+      "council_skill": "内治重視",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 伊達 【固有戦法】 懐柔 【伝授戦法】 休養 【評定衆技能】 内治重視",
+      "unique_tactic_detail": {
+        "name": "懐柔",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2〜3名）",
+        "activation": "100%",
+        "detail": "指揮 2ターン目から3ターンの間、自軍複数（2～3名）が休養（毎ターン兵力回復）を獲得（回復率42%→84%、知略依存）",
+        "source": "固有戦法： 岩城親隆"
+      },
+      "transferable_tactic_detail": {
+        "name": "休養",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は休養（毎ターン兵力回復、回復率50%→100%）を獲得",
+        "source": "伝授戦法： 岩城親隆 / 吉川広家"
+      },
+      "council_skill_detail": {
+        "name": "内治重視",
+        "benefit": "内政施設昇格時の所要時間が10％→20％低下（政務依存）",
+        "drawback": "本城および支城の徴兵速度が4％低下"
+      }
+    },
+    {
+      "name": "小山田信茂",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747989",
+      "image_url": "https://img.game8.jp/12059552/58edec6cce7864aba499b922027c1a98.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "矢石飛交",
+      "transferable_tactic": "矢石飛交",
+      "council_skill": "鉄産拡張",
+      "description": "【コスト】5　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 矢石飛交 【伝授戦法】 矢石飛交 【評定衆技能】 鉄産拡張",
+      "unique_tactic_detail": {
+        "name": "矢石飛交",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 敵軍単体にランダムで2～4回の兵刃ダメージ（ダメージ率42%→84%）",
+        "source": "固有戦法： 小山田信茂"
+      },
+      "transferable_tactic_detail": {
+        "name": "矢石飛交",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 敵軍単体にランダムで2～4回の兵刃ダメージ（ダメージ率42%→84%）",
+        "source": "伝授戦法： 小山田信茂"
+      },
+      "council_skill_detail": {
+        "name": "鉄産拡張",
+        "benefit": "鉄鉱土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "鉄鉱の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "福原貞俊",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747990",
+      "image_url": "https://img.game8.jp/12059255/1df9cd545956716a94577d1f3ba4aef5.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "融通自在",
+      "transferable_tactic": "融通自在",
+      "council_skill": "木材増産",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 融通自在 【伝授戦法】 融通自在 【評定衆技能】 木材増産",
+      "unique_tactic_detail": {
+        "name": "融通自在",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、友軍単体の能動戦法の発動確率が6%→12%増加（最大2回重ねがけ可能）",
+        "source": "固有戦法： 福原貞俊"
+      },
+      "transferable_tactic_detail": {
+        "name": "融通自在",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、友軍単体の能動戦法の発動確率が6%→12%増加（最大2回重ねがけ可能）",
+        "source": "伝授戦法： 福原貞俊"
+      },
+      "council_skill_detail": {
+        "name": "木材増産",
+        "benefit": "施設の木材産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "栗山善助",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747991",
+      "image_url": "https://img.game8.jp/12059226/f53dfda6596efd505a50cd23d6a1f0c3.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "秋水一色",
+      "transferable_tactic": "秋水一色",
+      "council_skill": "鉄鉱増産",
+      "description": "【コスト】5　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 秋水一色 【伝授戦法】 秋水一色 【評定衆技能】 鉄鉱増産",
+      "unique_tactic_detail": {
+        "name": "秋水一色",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、自身と友軍単体の計略与ダメージが10%→20%上昇。その後、敵軍複数（2名）に計略ダメージ（ダメージ率74%→148%、知略依存）",
+        "source": "固有戦法： 栗山善助"
+      },
+      "transferable_tactic_detail": {
+        "name": "秋水一色",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、自身と友軍単体の計略与ダメージが10%→20%上昇。その後、敵軍複数（2名）に計略ダメージ（ダメージ率74%→148%、知略依存）",
+        "source": "伝授戦法： 栗山善助"
+      },
+      "council_skill_detail": {
+        "name": "鉄鉱増産",
+        "benefit": "施設の鉄鉱産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "国司元相",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747994",
+      "image_url": "https://img.game8.jp/12059228/e66075f8b7f7163a0de36b80d91ade56.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "槍の鈴",
+      "transferable_tactic": "槍の鈴",
+      "council_skill": "石材増産",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 槍の鈴 【伝授戦法】 槍の鈴 【評定衆技能】 石材増産",
+      "unique_tactic_detail": {
+        "name": "槍の鈴",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、敵軍単体に兵刃ダメージ（ダメージ率116%→232%）。3ターン目以降、追加で自身の兵力を回復（回復率27%→54%、武勇依存）",
+        "source": "固有戦法： 国司元相"
+      },
+      "transferable_tactic_detail": {
+        "name": "槍の鈴",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、敵軍単体に兵刃ダメージ（ダメージ率116%→232%）。3ターン目以降、追加で自身の兵力を回復（回復率27%→54%、武勇依存）",
+        "source": "伝授戦法： 国司元相"
+      },
+      "council_skill_detail": {
+        "name": "石材増産",
+        "benefit": "施設の石材産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "多田三八郎",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747995",
+      "image_url": "https://img.game8.jp/12059246/4724e7fb0c80c9890c99c547307311c4.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "妖怪退治",
+      "transferable_tactic": "妖怪退治",
+      "council_skill": "弓兵教練",
+      "description": "【コスト】5　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 妖怪退治 【伝授戦法】 妖怪退治 【評定衆技能】 弓兵教練",
+      "unique_tactic_detail": {
+        "name": "妖怪退治",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体の強化効果を1個「強化解除」し、その後兵刃ダメージ（ダメージ率128%→256%）",
+        "source": "固有戦法： 多田三八郎"
+      },
+      "transferable_tactic_detail": {
+        "name": "妖怪退治",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体の強化効果を1個「強化解除」し、その後兵刃ダメージ（ダメージ率128%→256%）",
+        "source": "伝授戦法： 多田三八郎"
+      },
+      "council_skill_detail": {
+        "name": "弓兵教練",
+        "benefit": "軍学修習中、弓兵委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、足軽委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "新発田重家",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747999",
+      "image_url": "https://img.game8.jp/12059244/f41527015c3de71b0c1a9164fc608384.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "敵陣攪乱",
+      "transferable_tactic": "敵陣攪乱",
+      "council_skill": "木産拡張",
+      "description": "【コスト】5　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 敵陣攪乱 【伝授戦法】 敵陣攪乱 【評定衆技能】 木産拡張",
+      "unique_tactic_detail": {
+        "name": "敵陣攪乱",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率73%→146%、知略依存）。1ターンの間、対象に混乱（攻撃と戦法の発動対象をランダムに選択）を付与",
+        "source": "固有戦法： 新発田重家"
+      },
+      "transferable_tactic_detail": {
+        "name": "敵陣攪乱",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率73%→146%、知略依存）。1ターンの間、対象に混乱（攻撃と戦法の発動対象をランダムに選択）を付与",
+        "source": "伝授戦法： 新発田重家"
+      },
+      "council_skill_detail": {
+        "name": "木産拡張",
+        "benefit": "木材土地の産出量が2％→4％上昇（政務依存）",
+        "drawback": "木材の徴発産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "磯野員昌",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748000",
+      "image_url": "https://img.game8.jp/12059269/8c264bf7aa2f6aa7d19a5489ca17dead.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "群雄",
+      "clan": "浅井",
+      "gender": "男",
+      "unique_tactic": "驍勇善戦",
+      "transferable_tactic": "驍勇善戦",
+      "council_skill": "軍備倹約",
+      "description": "【コスト】5　【性別】男 【勢力】 群雄\n　【家門】 浅井 【固有戦法】 驍勇善戦 【伝授戦法】 驍勇善戦 【評定衆技能】 軍備倹約",
+      "unique_tactic_detail": {
+        "name": "驍勇善戦",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間自身が20%→40%の会心（発動時、兵刃ダメージが50%上昇）を獲得し、敵軍単体に兵刃ダメージ（ダメージ率156%→312%）",
+        "source": "固有戦法： 磯野員昌"
+      },
+      "transferable_tactic_detail": {
+        "name": "驍勇善戦",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間自身が20%→40%の会心（発動時、兵刃ダメージが50%上昇）を獲得し、敵軍単体に兵刃ダメージ（ダメージ率156%→312%）",
+        "source": "伝授戦法： 磯野員昌"
+      },
+      "council_skill_detail": {
+        "name": "軍備倹約",
+        "benefit": "軍事施設昇格時、即時完了に必要な小判が0.15→0.3減少（政務依存）",
+        "drawback": "軍事施設昇格時の所要時間が4％上昇"
+      }
+    },
+    {
+      "name": "小幡景憲",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748004",
+      "image_url": "https://img.game8.jp/12059224/86a0a6a4a00d5402e9b34691670600d7.webp/original",
+      "rarity": "★★★★",
+      "cost": "5",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "甲州流軍学",
+      "transferable_tactic": "甲州流軍学",
+      "council_skill": "内治重視",
+      "description": "【コスト】5　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 甲州流軍学 【伝授戦法】 甲州流軍学 【評定衆技能】 内治重視",
+      "unique_tactic_detail": {
+        "name": "甲州流軍学",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率93%→186%、知略依存）を与え、1ターンの間、友軍単体に1回分の鉄壁（被ダメージ無効）を付与",
+        "source": "固有戦法： 小幡景憲"
+      },
+      "transferable_tactic_detail": {
+        "name": "甲州流軍学",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率93%→186%、知略依存）を与え、1ターンの間、友軍単体に1回分の鉄壁（被ダメージ無効）を付与",
+        "source": "伝授戦法： 小幡景憲"
+      },
+      "council_skill_detail": {
+        "name": "内治重視",
+        "benefit": "内政施設昇格時の所要時間が10％→20％低下（政務依存）",
+        "drawback": "本城および支城の徴兵速度が4％低下"
+      }
+    },
+    {
+      "name": "三枝昌貞",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747968",
+      "image_url": "https://img.game8.jp/12059177/2f44addb241fc8ab405cb34bb02bc09a.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "警戒周到",
+      "transferable_tactic": "警戒周到",
+      "council_skill": "城塁固守",
+      "description": "【コスト】4　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 警戒周到 【伝授戦法】 警戒周到 【評定衆技能】 城塁固守",
+      "unique_tactic_detail": {
+        "name": "警戒周到",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 4ターン目まで、自軍複数（2名）の被ダメージが11%→22%低下",
+        "source": "固有戦法： 三枝昌貞"
+      },
+      "transferable_tactic_detail": {
+        "name": "警戒周到",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "100%",
+        "detail": "指揮 4ターン目まで、自軍複数（2名）の被ダメージが11%→22%低下",
+        "source": "伝授戦法： 三枝昌貞"
+      },
+      "council_skill_detail": {
+        "name": "城塁固守",
+        "benefit": "自身の本城、支城および一門の中立城で交戦した場合、部隊の被ダメージが1％→2％低下（魅力依存）",
+        "drawback": "資源地に駐屯している間、被ダメージが1％上昇"
+      }
+    },
+    {
+      "name": "吉川広家",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747975",
+      "image_url": "https://img.game8.jp/12059144/91f2ca5bc4d83309f61016f467bde413.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "魚目混珠",
+      "transferable_tactic": "休養",
+      "council_skill": "内政倹約",
+      "description": "【コスト】4　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 魚目混珠 【伝授戦法】 休養 【評定衆技能】 内政倹約",
+      "unique_tactic_detail": {
+        "name": "魚目混珠",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 自身は通常攻撃ができず、与ダメージが25%→50%低下するが、毎ターン食事で自身の兵力を回復（回復率106%→212%）",
+        "source": "固有戦法： 吉川広家"
+      },
+      "transferable_tactic_detail": {
+        "name": "休養",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 戦闘中、自身は休養（毎ターン兵力回復、回復率50%→100%）を獲得",
+        "source": "伝授戦法： 岩城親隆 / 吉川広家"
+      },
+      "council_skill_detail": {
+        "name": "内政倹約",
+        "benefit": "内政施設昇格時、即時完了に必要な小判が0.15→0.3減少（政務依存）",
+        "drawback": "内政施設昇格時の所要時間が4％上昇"
+      }
+    },
+    {
+      "name": "大久保忠世",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747976",
+      "image_url": "https://img.game8.jp/12059147/8e478c8d0318ea5e373db0f48239e06a.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "忠勤励行",
+      "transferable_tactic": "忠勤励行",
+      "council_skill": "兵糧増産",
+      "description": "【コスト】4　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 忠勤励行 【伝授戦法】 忠勤励行 【評定衆技能】 兵糧増産",
+      "unique_tactic_detail": {
+        "name": "忠勤励行",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、自軍複数（2名）の兵刃与ダメージが7.5%→15%上昇。その後、自身が敵軍単体に兵刃ダメージ（ダメージ率148%→296%）",
+        "source": "固有戦法： 大久保忠世"
+      },
+      "transferable_tactic_detail": {
+        "name": "忠勤励行",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "35%",
+        "detail": "能動 1ターンの準備後、2ターンの間、自軍複数（2名）の兵刃与ダメージが7.5%→15%上昇。その後、自身が敵軍単体に兵刃ダメージ（ダメージ率148%→296%）",
+        "source": "伝授戦法： 大久保忠世"
+      },
+      "council_skill_detail": {
+        "name": "兵糧増産",
+        "benefit": "施設の兵糧産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "池田せん",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747980",
+      "image_url": "https://img.game8.jp/12059170/1e4ddae00478b7f1349cc3bddfa82374.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "女",
+      "unique_tactic": "不意打ち",
+      "transferable_tactic": "不意打ち",
+      "council_skill": "鉄砲教練",
+      "description": "【コスト】4　【性別】女 【勢力】 織田\n　【家門】 織田 【固有戦法】 不意打ち 【伝授戦法】 不意打ち 【評定衆技能】 鉄砲教練",
+      "unique_tactic_detail": {
+        "name": "不意打ち",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "20%→45%",
+        "detail": "能動 1ターンの準備後、1～2ターンの間（65%の確率で2ターンの間）、敵軍複数（2名）にランダムに無策（能動戦法発動不可）と封撃（通常攻撃不可）のいずれかを付与",
+        "source": "固有戦法： 池田せん"
+      },
+      "transferable_tactic_detail": {
+        "name": "不意打ち",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "20%→45%",
+        "detail": "能動 1ターンの準備後、1～2ターンの間（65%の確率で2ターンの間）、敵軍複数（2名）にランダムに無策（能動戦法発動不可）と封撃（通常攻撃不可）のいずれかを付与",
+        "source": "伝授戦法： 池田せん"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲教練",
+        "benefit": "軍学修習中、鉄砲委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、騎馬委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "蜂須賀家政",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747984",
+      "image_url": "https://img.game8.jp/12059239/97c0b62e952d562fe9c8e54675742cea.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "有備無患",
+      "transferable_tactic": "有備無患",
+      "council_skill": "木材増産",
+      "description": "【コスト】4　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 有備無患 【伝授戦法】 有備無患 【評定衆技能】 木材増産",
+      "unique_tactic_detail": {
+        "name": "有備無患",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "45%",
+        "detail": "能動 自軍複数（2名）の兵力を回復（回復率54%→108%、知略依存）",
+        "source": "固有戦法： 蜂須賀家政"
+      },
+      "transferable_tactic_detail": {
+        "name": "有備無患",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍複数（2名）",
+        "activation": "45%",
+        "detail": "能動 自軍複数（2名）の兵力を回復（回復率54%→108%、知略依存）",
+        "source": "伝授戦法： 蜂須賀家政"
+      },
+      "council_skill_detail": {
+        "name": "木材増産",
+        "benefit": "施設の木材産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "武田義信",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747986",
+      "image_url": "https://img.game8.jp/12059247/25fe4ab0f781a7674cb03bf7c4373538.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "一触即発",
+      "transferable_tactic": "一触即発",
+      "council_skill": "騎馬教練",
+      "description": "【コスト】4　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 一触即発 【伝授戦法】 一触即発 【評定衆技能】 騎馬教練",
+      "unique_tactic_detail": {
+        "name": "一触即発",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "突撃 通常攻撃後、1ターンの間攻撃対象の統率が70→140減少、無策（能動戦法発動不可）を付与",
+        "source": "固有戦法： 武田義信"
+      },
+      "transferable_tactic_detail": {
+        "name": "一触即発",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "突撃 通常攻撃後、1ターンの間攻撃対象の統率が70→140減少、無策（能動戦法発動不可）を付与",
+        "source": "伝授戦法： 武田義信"
+      },
+      "council_skill_detail": {
+        "name": "騎馬教練",
+        "benefit": "軍学修習中、騎馬委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、鉄砲委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "山内一豊",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747987",
+      "image_url": "https://img.game8.jp/12059232/dbbea137e5f0c11b02ee716735368645.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "弓調馬服",
+      "transferable_tactic": "弓調馬服",
+      "council_skill": "鉄鉱増産",
+      "description": "【コスト】4　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 弓調馬服 【伝授戦法】 弓調馬服 【評定衆技能】 鉄鉱増産",
+      "unique_tactic_detail": {
+        "name": "弓調馬服",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、敵軍単体の武勇と知略の高い方が50→100減少。10%→20%の確率（武勇依存）で双方減少",
+        "source": "固有戦法： 山内一豊"
+      },
+      "transferable_tactic_detail": {
+        "name": "弓調馬服",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "能動 2ターンの間、敵軍単体の武勇と知略の高い方が50→100減少。10%→20%の確率（武勇依存）で双方減少",
+        "source": "伝授戦法： 山内一豊"
+      },
+      "council_skill_detail": {
+        "name": "鉄鉱増産",
+        "benefit": "施設の鉄鉱産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "横山喜内",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748001",
+      "image_url": "https://img.game8.jp/12059282/2ff57637c831b9136aba1056567dacc5.webp/original",
+      "rarity": "★★★★",
+      "cost": "4",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "一六勝負",
+      "transferable_tactic": "一六勝負",
+      "council_skill": "兵糧増産",
+      "description": "【コスト】4　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 一六勝負 【伝授戦法】 一六勝負 【評定衆技能】 兵糧増産",
+      "unique_tactic_detail": {
+        "name": "一六勝負",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 ランダムにいずれか1つの効果を発動：敵軍単体に計略ダメージ（ダメージ率120%→240%、知略依存）を与えるか、自軍単体の兵力を回復（回復率120%→240%、知略依存）",
+        "source": "固有戦法： 横山喜内"
+      },
+      "transferable_tactic_detail": {
+        "name": "一六勝負",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 ランダムにいずれか1つの効果を発動：敵軍単体に計略ダメージ（ダメージ率120%→240%、知略依存）を与えるか、自軍単体の兵力を回復（回復率120%→240%、知略依存）",
+        "source": "伝授戦法： 横山喜内"
+      },
+      "council_skill_detail": {
+        "name": "兵糧増産",
+        "benefit": "施設の兵糧産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "甘粕景継",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747965",
+      "image_url": "https://img.game8.jp/12058901/cf1ec4dfb3a796ed018339158dac3feb.webp/original",
+      "rarity": "★★★★",
+      "cost": "3",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "回山倒海",
+      "transferable_tactic": "回山倒海",
+      "council_skill": "足軽教練",
+      "description": "【コスト】3　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 回山倒海 【伝授戦法】 回山倒海 【評定衆技能】 足軽教練",
+      "unique_tactic_detail": {
+        "name": "回山倒海",
+        "rank": "S",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、敵軍単体に兵刃ダメージ（ダメージ率52%→104%）を与え、さらに対象に2ターンの間潰走（毎ターン持続ダメージ、ダメージ率47%→94%、武勇依存）を付与",
+        "source": "固有戦法： 甘粕景継"
+      },
+      "transferable_tactic_detail": {
+        "name": "回山倒海",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、敵軍単体に兵刃ダメージ（ダメージ率52%→104%）を与え、さらに対象に2ターンの間潰走（毎ターン持続ダメージ、ダメージ率47%→94%、武勇依存）を付与",
+        "source": "伝授戦法： 甘粕景継"
+      },
+      "council_skill_detail": {
+        "name": "足軽教練",
+        "benefit": "軍学修習中、足軽委任修習に必要な資源が2.5％→5％低下（政務依存）",
+        "drawback": "軍学修習中、弓兵委任修習に必要な資源が2.5％上昇"
+      }
+    },
+    {
+      "name": "脇坂安治",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747969",
+      "image_url": "https://img.game8.jp/12059153/2ce21a81599b277dc76b065c44d90bc4.webp/original",
+      "rarity": "★★★★",
+      "cost": "3",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "攻守兼備",
+      "transferable_tactic": "攻守兼備",
+      "council_skill": "石材増産",
+      "description": "【コスト】3　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 攻守兼備 【伝授戦法】 攻守兼備 【評定衆技能】 石材増産",
+      "unique_tactic_detail": {
+        "name": "攻守兼備",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "能動 敵軍単体にダメージ（ダメージ率92%→184%、ダメージタイプは武勇と知略の高い方）。また、毎ターン最初に受ける異なるタイプの被ダメージが20%→40%低下、1ターン持続",
+        "source": "固有戦法： 脇坂安治"
+      },
+      "transferable_tactic_detail": {
+        "name": "攻守兼備",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 敵軍単体にダメージ（ダメージ率92%→184%、ダメージタイプは武勇と知略の高い方）。また、毎ターン最初に受ける異なるタイプの被ダメージが20%→40%低下、1ターン持続",
+        "source": "伝授戦法： 脇坂安治"
+      },
+      "council_skill_detail": {
+        "name": "石材増産",
+        "benefit": "施設の石材産出量が10％→20％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2.5％低下"
+      }
+    },
+    {
+      "name": "小山田茂誠",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/747992",
+      "image_url": "https://img.game8.jp/12059275/61a7e81870cf23c57ffc669849d44392.webp/original",
+      "rarity": "★★★★",
+      "cost": "3",
+      "faction": "武田",
+      "clan": "武田",
+      "gender": "男",
+      "unique_tactic": "参謀の助言",
+      "transferable_tactic": "参謀の助言",
+      "council_skill": "軍事重視",
+      "description": "【コスト】3　【性別】男 【勢力】 武田\n　【家門】 武田 【固有戦法】 参謀の助言 【伝授戦法】 参謀の助言 【評定衆技能】 軍事重視",
+      "unique_tactic_detail": {
+        "name": "参謀の助言",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "指揮 自軍全体の武勇と知略が14→28増加",
+        "source": "固有戦法： 小山田茂誠"
+      },
+      "transferable_tactic_detail": {
+        "name": "参謀の助言",
+        "rank": "A",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍全体（3名）",
+        "activation": "100%",
+        "detail": "指揮 自軍全体の武勇と知略が14→28増加",
+        "source": "伝授戦法： 小山田茂誠"
+      },
+      "council_skill_detail": {
+        "name": "軍事重視",
+        "benefit": "軍事施設昇格時の所要時間が10％→20％低下（政務依存）",
+        "drawback": "調馬の資源消費が4％上昇"
+      }
+    },
+    {
+      "name": "長野業盛",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748008",
+      "image_url": "https://img.game8.jp/12059242/cd7750d1b8b6e4dacd840539d9d6cc6a.webp/original",
+      "rarity": "★★★",
+      "cost": "5",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "不退転",
+      "transferable_tactic": "不退転",
+      "council_skill": "軍事重視",
+      "description": "【コスト】5　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 不退転 【伝授戦法】 不退転 【評定衆技能】 軍事重視",
+      "unique_tactic_detail": {
+        "name": "不退転",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵短単体",
+        "activation": "30%",
+        "detail": "突撃 通常攻撃後、攻撃対象にもう一度兵刃ダメージ（ダメージ率70%→140%）",
+        "source": "固有戦法： 長野業盛"
+      },
+      "transferable_tactic_detail": {
+        "name": "不退転",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵短単体",
+        "activation": "30%",
+        "detail": "突撃 通常攻撃後、攻撃対象にもう一度兵刃ダメージ（ダメージ率70%→140%）",
+        "source": "伝授戦法： 長野業盛"
+      },
+      "council_skill_detail": {
+        "name": "軍事重視",
+        "benefit": "軍事施設昇格時の所要時間が5％→10％低下（政務依存）",
+        "drawback": "調馬の資源消費が3％上昇"
+      }
+    },
+    {
+      "name": "小早川秀秋",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748005",
+      "image_url": "https://img.game8.jp/12059291/a9e3e0107527efa642f2bedee3feee89.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "豊臣",
+      "clan": "豊臣",
+      "gender": "男",
+      "unique_tactic": "薙ぎ払い",
+      "transferable_tactic": "薙ぎ払い",
+      "council_skill": "農産拡張",
+      "description": "【コスト】4　【性別】男 【勢力】 豊臣\n　【家門】 豊臣 【固有戦法】 薙ぎ払い 【伝授戦法】 薙ぎ払い 【評定衆技能】 農産拡張",
+      "unique_tactic_detail": {
+        "name": "薙ぎ払い",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "50%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率62.5%→125%）",
+        "source": "固有戦法： 小早川秀秋"
+      },
+      "transferable_tactic_detail": {
+        "name": "薙ぎ払い",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "50%",
+        "detail": "能動 敵軍単体に兵刃ダメージ（ダメージ率62.5%→125%）",
+        "source": "伝授戦法： 小早川秀秋"
+      },
+      "council_skill_detail": {
+        "name": "農産拡張",
+        "benefit": "兵糧土地の産出量が1％→2％上昇（政務依存）",
+        "drawback": "兵糧の徴発産出量が2％低下"
+      }
+    },
+    {
+      "name": "内藤信成",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748006",
+      "image_url": "https://img.game8.jp/12059258/86e288e83fb3ce51058a11cc984b6773.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "嘲罵",
+      "transferable_tactic": "嘲罵",
+      "council_skill": "足軽教練",
+      "description": "【コスト】4　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 嘲罵 【伝授戦法】 嘲罵 【評定衆技能】 足軽教練",
+      "unique_tactic_detail": {
+        "name": "嘲罵",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍全体（3名）",
+        "activation": "30%→60%",
+        "detail": "能動 1ターンの間、敵軍全体に挑発を付与して自身をその攻撃対象に固定",
+        "source": "固有戦法： 内藤信成"
+      },
+      "transferable_tactic_detail": {
+        "name": "嘲罵",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍全体（3名）",
+        "activation": "30%→60%",
+        "detail": "能動 1ターンの間、敵軍全体に挑発を付与して自身をその攻撃対象に固定",
+        "source": "伝授戦法： 内藤信成"
+      },
+      "council_skill_detail": {
+        "name": "足軽教練",
+        "benefit": "軍学修習中、足軽委任修習に必要な資源が1.2％→2.0％低下（政務依存）",
+        "drawback": "軍学修習中、弓兵委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "河尻秀隆",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748015",
+      "image_url": "https://img.game8.jp/12059273/4369879843ae7e3187a5e8fc6bd385e0.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "刺突",
+      "transferable_tactic": "刺突",
+      "council_skill": "木材増産",
+      "description": "【コスト】4　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 刺突 【伝授戦法】 刺突 【評定衆技能】 木材増産",
+      "unique_tactic_detail": {
+        "name": "刺突",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 3ターンの間、敵軍単体に潰走（毎ターン持続ダメージ。ダメージ率35%→70%、武勇依存）を付与",
+        "source": "固有戦法： 河尻秀隆"
+      },
+      "transferable_tactic_detail": {
+        "name": "刺突",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 3ターンの間、敵軍単体に潰走（毎ターン持続ダメージ。ダメージ率35%→70%、武勇依存）を付与",
+        "source": "伝授戦法： 河尻秀隆"
+      },
+      "council_skill_detail": {
+        "name": "木材増産",
+        "benefit": "施設の木材産出量が5％→10％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2％低下"
+      }
+    },
+    {
+      "name": "織田信雄",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748016",
+      "image_url": "https://img.game8.jp/12059259/d61a7d1a6dbbc77223b0624fc4cd1dbb.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "同討",
+      "transferable_tactic": "同討",
+      "council_skill": "鉄産拡張",
+      "description": "【コスト】4　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 同討 【伝授戦法】 同討 【評定衆技能】 鉄産拡張",
+      "unique_tactic_detail": {
+        "name": "同討",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "30%",
+        "detail": "能動 1ターンの準備後、敵軍複数（2名）に兵刃ダメージ（ダメージ率77.5%→155%）",
+        "source": "固有戦法： 織田信雄"
+      },
+      "transferable_tactic_detail": {
+        "name": "同討",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "30%",
+        "detail": "能動 1ターンの準備後、敵軍複数（2名）に兵刃ダメージ（ダメージ率77.5%→155%）",
+        "source": "伝授戦法： 織田信雄"
+      },
+      "council_skill_detail": {
+        "name": "鉄産拡張",
+        "benefit": "鉄鉱土地の産出量が1％→2％上昇（政務依存）",
+        "drawback": "鉄鉱の徴発産出量が2％低下"
+      }
+    },
+    {
+      "name": "林秀貞",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748017",
+      "image_url": "https://img.game8.jp/12059261/826ddbf8b59548b2676cfc4f96ae7656.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "対話",
+      "transferable_tactic": "対話",
+      "council_skill": "市利偏重",
+      "description": "【コスト】4　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 対話 【伝授戦法】 対話 【評定衆技能】 市利偏重",
+      "unique_tactic_detail": {
+        "name": "対話",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "23%→45%",
+        "detail": "能動 3ターンの間、自軍単体に混乱に対する「耐性」効果を付与",
+        "source": "固有戦法： 林秀貞"
+      },
+      "transferable_tactic_detail": {
+        "name": "対話",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "23%→45%",
+        "detail": "能動 3ターンの間、自軍単体に混乱に対する「耐性」効果を付与",
+        "source": "伝授戦法： 林秀貞"
+      },
+      "council_skill_detail": {
+        "name": "市利偏重",
+        "benefit": "施設の銀銭産出量が5％→10％上昇（政務依存）",
+        "drawback": "施設の木材、鉄鉱、石材、兵糧産出量が2％低下"
+      }
+    },
+    {
+      "name": "不破光治",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748018",
+      "image_url": "https://img.game8.jp/12059284/84b0427b80d85639c1ff4d683fd78245.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "救援",
+      "transferable_tactic": "救援",
+      "council_skill": "軍備倹約",
+      "description": "【コスト】4　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 救援 【伝授戦法】 救援 【評定衆技能】 軍備倹約",
+      "unique_tactic_detail": {
+        "name": "救援",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "40%",
+        "detail": "能動 2ターンの間、自軍単体に回生（ダメージを受けるたびに50%の確率で兵力を一定量回復。回復率37.5%→75%、知略依存）を付与",
+        "source": "固有戦法： 不破光治"
+      },
+      "transferable_tactic_detail": {
+        "name": "救援",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自軍単体",
+        "activation": "40%",
+        "detail": "能動 2ターンの間、自軍単体に回生（ダメージを受けるたびに50%の確率で兵力を一定量回復。回復率37.5%→75%、知略依存）を付与",
+        "source": "伝授戦法： 不破光治"
+      },
+      "council_skill_detail": {
+        "name": "軍備倹約",
+        "benefit": "軍事施設昇格時、即時完了に必要な小判が0.07→0.15減少（政務依存）",
+        "drawback": "軍事施設昇格時の所要時間が3％上昇"
+      }
+    },
+    {
+      "name": "本願寺教如",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748020",
+      "image_url": "https://img.game8.jp/12059257/924a14d1fb0c60724d5337b3d5fe418c.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "群雄",
+      "clan": "本願寺",
+      "gender": "男",
+      "unique_tactic": "水計",
+      "transferable_tactic": "水計",
+      "council_skill": "内政倹約",
+      "description": "【コスト】4　【性別】男 【勢力】 群雄\n　【家門】 本願寺 【固有戦法】 水計 【伝授戦法】 水計 【評定衆技能】 内政倹約",
+      "unique_tactic_detail": {
+        "name": "水計",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 3ターンの間、敵軍単体に水攻めを付与し、毎ターン持続ダメージを与える（ダメージ率35%→70%、知略依存）",
+        "source": "固有戦法： 本願寺教如"
+      },
+      "transferable_tactic_detail": {
+        "name": "水計",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 3ターンの間、敵軍単体に水攻めを付与し、毎ターン持続ダメージを与える（ダメージ率35%→70%、知略依存）",
+        "source": "伝授戦法： 本願寺教如"
+      },
+      "council_skill_detail": {
+        "name": "内政倹約",
+        "benefit": "内政施設昇格時、即時完了に必要な小判が0.07→0.15減少（政務依存）",
+        "drawback": "内政施設昇格時の所要時間が3％上昇"
+      }
+    },
+    {
+      "name": "松平忠直",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748021",
+      "image_url": "https://img.game8.jp/12059265/ef90c3fd1187d8839cde1d5d7fc69483.webp/original",
+      "rarity": "★★★",
+      "cost": "4",
+      "faction": "徳川",
+      "clan": "徳川",
+      "gender": "男",
+      "unique_tactic": "猛撃",
+      "transferable_tactic": "猛撃",
+      "council_skill": "石材増産",
+      "description": "【コスト】4　【性別】男 【勢力】 徳川\n　【家門】 徳川 【固有戦法】 猛撃 【伝授戦法】 猛撃 【評定衆技能】 石材増産",
+      "unique_tactic_detail": {
+        "name": "猛撃",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "突撃 通常攻撃後、2ターンの間、自身が7.5%→15%の会心を獲得（発動時、兵刃ダメージが50%上昇）",
+        "source": "固有戦法： 松平忠直"
+      },
+      "transferable_tactic_detail": {
+        "name": "猛撃",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "45%",
+        "detail": "突撃 通常攻撃後、2ターンの間、自身が7.5%→15%の会心を獲得（発動時、兵刃ダメージが50%上昇）",
+        "source": "伝授戦法： 松平忠直"
+      },
+      "council_skill_detail": {
+        "name": "石材増産",
+        "benefit": "施設の石材産出量が5％→10％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2％低下"
+      }
+    },
+    {
+      "name": "色部勝長",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748007",
+      "image_url": "https://img.game8.jp/12059251/016d2b19b6291fc5f7b4b16293780b78.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "連戦",
+      "transferable_tactic": "連戦",
+      "council_skill": "鉄砲教練",
+      "description": "【コスト】3　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 連戦 【伝授戦法】 連戦 【評定衆技能】 鉄砲教練",
+      "unique_tactic_detail": {
+        "name": "連戦",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、敵軍単体に兵刃ダメージ（ダメージ率60%→120%）",
+        "source": "固有戦法： 色部勝長"
+      },
+      "transferable_tactic_detail": {
+        "name": "連戦",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "突撃 通常攻撃後、敵軍単体に兵刃ダメージ（ダメージ率60%→120%）",
+        "source": "伝授戦法： 色部勝長"
+      },
+      "council_skill_detail": {
+        "name": "鉄砲教練",
+        "benefit": "軍学修習中、鉄砲委任修習に必要な資源が1.2％→2.0％低下（政務依存）",
+        "drawback": "軍学修習中、騎馬委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "杉浦玄任",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748009",
+      "image_url": "https://img.game8.jp/12059288/5ad1236f54e88f6325f8f542903a8d54.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "群雄",
+      "clan": "本願寺",
+      "gender": "男",
+      "unique_tactic": "看破",
+      "transferable_tactic": "看破",
+      "council_skill": "石産拡張",
+      "description": "【コスト】3　【性別】男 【勢力】 群雄\n　【家門】 本願寺 【固有戦法】 看破 【伝授戦法】 看破 【評定衆技能】 石産拡張",
+      "unique_tactic_detail": {
+        "name": "看破",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "25%",
+        "detail": "能動 敵軍単体の強化効果を解除し、2ターンの間、対象の知略が9→18低下",
+        "source": "固有戦法： 杉浦玄任"
+      },
+      "transferable_tactic_detail": {
+        "name": "看破",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "25%",
+        "detail": "能動 敵軍単体の強化効果を解除し、2ターンの間、対象の知略が9→18低下",
+        "source": "伝授戦法： 杉浦玄任"
+      },
+      "council_skill_detail": {
+        "name": "石産拡張",
+        "benefit": "石材土地の産出量が1％→2％上昇（政務依存）",
+        "drawback": "石材の徴発産出量が2％低下"
+      }
+    },
+    {
+      "name": "本庄実乃",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748010",
+      "image_url": "https://img.game8.jp/12059225/e0557d205da6bf04cd2c0984fc786839.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "火計",
+      "transferable_tactic": "火計",
+      "council_skill": "内治重視",
+      "description": "【コスト】3　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 火計 【伝授戦法】 火計 【評定衆技能】 内治重視",
+      "unique_tactic_detail": {
+        "name": "火計",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 3ターンの間、敵軍単体を火傷にし、毎ターン持続ダメージを与える（ダメージ率35%→70%、知略依存）",
+        "source": "固有戦法： 本庄実乃"
+      },
+      "transferable_tactic_detail": {
+        "name": "火計",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "35%",
+        "detail": "能動 3ターンの間、敵軍単体を火傷にし、毎ターン持続ダメージを与える（ダメージ率35%→70%、知略依存）",
+        "source": "伝授戦法： 本庄実乃"
+      },
+      "council_skill_detail": {
+        "name": "内治重視",
+        "benefit": "内政施設昇格時の所要時間が5％→10％低下（政務依存）",
+        "drawback": "本城および支城の徴兵速度が3％低下"
+      }
+    },
+    {
+      "name": "色部長実",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748011",
+      "image_url": "https://img.game8.jp/12059295/cdcfb56e068428d7346f4521888337bd.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "上杉",
+      "clan": "上杉",
+      "gender": "男",
+      "unique_tactic": "奮起",
+      "transferable_tactic": "奮起",
+      "council_skill": "兵糧増産",
+      "description": "【コスト】3　【性別】男 【勢力】 上杉\n　【家門】 上杉 【固有戦法】 奮起 【伝授戦法】 奮起 【評定衆技能】 兵糧増産",
+      "unique_tactic_detail": {
+        "name": "奮起",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 自身の武勇と速度が12.5→25増加",
+        "source": "固有戦法： 色部長実"
+      },
+      "transferable_tactic_detail": {
+        "name": "奮起",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "100%",
+        "detail": "受動 自身の武勇と速度が12.5→25増加",
+        "source": "伝授戦法： 色部長実"
+      },
+      "council_skill_detail": {
+        "name": "兵糧増産",
+        "benefit": "施設の兵糧産出量が5％→10％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2％低下"
+      }
+    },
+    {
+      "name": "遠藤基信",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748012",
+      "image_url": "https://img.game8.jp/12059229/bef836e74e557ecf86d02702d9460e12.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "群雄",
+      "clan": "伊達",
+      "gender": "男",
+      "unique_tactic": "殿軍",
+      "transferable_tactic": "殿軍",
+      "council_skill": "騎馬教練",
+      "description": "【コスト】3　【性別】男 【勢力】 群雄\n　【家門】 伊達 【固有戦法】 殿軍 【伝授戦法】 殿軍 【評定衆技能】 騎馬教練",
+      "unique_tactic_detail": {
+        "name": "殿軍",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "25%",
+        "detail": "能動 2ターンの間、自身の武勇が15→30増加、自身が副将の場合は追加で統率が20→40増加",
+        "source": "固有戦法： 遠藤基信"
+      },
+      "transferable_tactic_detail": {
+        "name": "殿軍",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "自分",
+        "activation": "25%",
+        "detail": "能動 2ターンの間、自身の武勇が15→30増加、自身が副将の場合は追加で統率が20→40増加",
+        "source": "伝授戦法： 遠藤基信"
+      },
+      "council_skill_detail": {
+        "name": "騎馬教練",
+        "benefit": "軍学修習中、騎馬委任修習に必要な資源が1.2％→2.0％低下（政務依存）",
+        "drawback": "軍学修習中、鉄砲委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "金森長近",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748013",
+      "image_url": "https://img.game8.jp/12059243/12e5cb1d96b6bf17ce233b74f684359d.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "破甲",
+      "transferable_tactic": "破甲",
+      "council_skill": "弓兵教練",
+      "description": "【コスト】3　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 破甲 【伝授戦法】 破甲 【評定衆技能】 弓兵教練",
+      "unique_tactic_detail": {
+        "name": "破甲",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "55%",
+        "detail": "突撃 通常攻撃後、2ターンの間攻撃対象の統率が18→36減少",
+        "source": "固有戦法： 金森長近"
+      },
+      "transferable_tactic_detail": {
+        "name": "破甲",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "55%",
+        "detail": "突撃 通常攻撃後、2ターンの間攻撃対象の統率が18→36減少",
+        "source": "伝授戦法： 金森長近"
+      },
+      "council_skill_detail": {
+        "name": "弓兵教練",
+        "benefit": "軍学修習中、弓兵委任修習に必要な資源が1.2％→2.0％低下（政務依存）",
+        "drawback": "軍学修習中、足軽委任修習に必要な資源が3％上昇"
+      }
+    },
+    {
+      "name": "筒井順慶",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748014",
+      "image_url": "https://img.game8.jp/12059286/710efb7205a068d4635bb431009fd585.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "織田",
+      "clan": "織田",
+      "gender": "男",
+      "unique_tactic": "火攻め",
+      "transferable_tactic": "火攻め",
+      "council_skill": "木産拡張",
+      "description": "【コスト】3　【性別】男 【勢力】 織田\n　【家門】 織田 【固有戦法】 火攻め 【伝授戦法】 火攻め 【評定衆技能】 木産拡張",
+      "unique_tactic_detail": {
+        "name": "火攻め",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率75%→150%）",
+        "source": "固有戦法： 筒井順慶"
+      },
+      "transferable_tactic_detail": {
+        "name": "火攻め",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍単体",
+        "activation": "40%",
+        "detail": "能動 敵軍単体に計略ダメージ（ダメージ率75%→150%）",
+        "source": "伝授戦法： 筒井順慶"
+      },
+      "council_skill_detail": {
+        "name": "木産拡張",
+        "benefit": "木材土地の産出量が1％→2％上昇（政務依存）",
+        "drawback": "木材の徴発産出量が2％低下"
+      }
+    },
+    {
+      "name": "口羽通良",
+      "detail_url": "https://game8.jp/nobunaga-shinsen/748019",
+      "image_url": "https://img.game8.jp/12059237/b0f84ece37996c456f1dd51199038533.webp/original",
+      "rarity": "★★★",
+      "cost": "3",
+      "faction": "群雄",
+      "clan": "毛利",
+      "gender": "男",
+      "unique_tactic": "威圧",
+      "transferable_tactic": "威圧",
+      "council_skill": "鉄鉱増産",
+      "description": "【コスト】3　【性別】男 【勢力】 群雄\n　【家門】 毛利 【固有戦法】 威圧 【伝授戦法】 威圧 【評定衆技能】 鉄鉱増産",
+      "unique_tactic_detail": {
+        "name": "威圧",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "25%",
+        "detail": "能動 2ターンの間、敵軍複数（2名）の与ダメージが7.5%→15%低下",
+        "source": "固有戦法： 口羽通良"
+      },
+      "transferable_tactic_detail": {
+        "name": "威圧",
+        "rank": "B",
+        "troop_types": "兵器/足軽/鉄砲/弓兵/騎兵",
+        "target": "敵軍複数（2名）",
+        "activation": "25%",
+        "detail": "能動 2ターンの間、敵軍複数（2名）の与ダメージが7.5%→15%低下",
+        "source": "伝授戦法： 口羽通良"
+      },
+      "council_skill_detail": {
+        "name": "鉄鉱増産",
+        "benefit": "施設の鉄鉱産出量が5％→10％上昇（政務依存）",
+        "drawback": "施設の銀銭産出量が2％低下"
+      }
+    }
+  ]
+}
